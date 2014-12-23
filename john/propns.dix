@@ -1,0 +1,230 @@
+    <e lm="Ċina"><i>Ċina</i><par n="Malta__np"/></e>
+    <e lm="Varsavja"><i>Varsavja</i><par n="Malta__np"/></e>
+    <e lm="Libja"><i>Libja</i><par n="Malta__np"/></e>
+    <e lm="Angola"><i>Angola</i><par n="Malta__np"/></e>
+    <e lm="Valletta"><i>Valletta</i><par n="Malta__np"/></e>
+    <e lm="Malta"><i>Malta</i><par n="Malta__np"/></e>
+    <e lm="Afrika"><i>Afrika</i><par n="Malta__np"/></e>
+    <e lm="Amerika"><i>Amerika</i><par n="Malta__np"/></e>
+    <e lm="Arġentina"><i>Arġentina</i><par n="Malta__np"/></e>
+    <e lm="Asja"><i>Asja</i><par n="Malta__np"/></e>
+    <e lm="Awstralja"><i>Awstralja</i><par n="Malta__np"/></e>
+    <e lm="Awstrija"><i>Awstrija</i><par n="Malta__np"/></e>
+    <e lm="Barcelona"><i>Barcelona</i><par n="Malta__np"/></e>
+    <e lm="Bolivja"><i>Bolivja</i><par n="Malta__np"/></e>
+    <e lm="Brittanja"><i>Brittanja</i><par n="Malta__np"/></e>
+    <e lm="Danimarka"><i>Danimarka</i><par n="Malta__np"/></e>
+    <e lm="Ewropa"><i>Ewropa</i><par n="Malta__np"/></e>
+    <e lm="Franza"><i>Franza</i><par n="Malta__np"/></e>
+    <e lm="Iżvezja"><i>Iżvezja</i><par n="Malta__np"/></e>
+    <e lm="Ġermanja"><i>Ġermanja</i><par n="Malta__np"/></e>
+    <e lm="Greċja"><i>Greċja</i><par n="Malta__np"/></e>
+    <e lm="Ingilterra"><i>Ingilterra</i><par n="Malta__np"/></e>
+    <e lm="Irlanda"><i>Irlanda</i><par n="Malta__np"/></e>
+    <e lm="Italja"><i>Italja</i><par n="Malta__np"/></e>
+    <e lm="Kanada"><i>Kanada</i><par n="Malta__np"/></e>
+    <e lm="Kolombja"><i>Kolombja</i><par n="Malta__np"/></e>
+    <e lm="Londra"><i>Londra</i><par n="Malta__np"/></e>
+    <e lm="Norveġja"><i>Norveġja</i><par n="Malta__np"/></e>
+    <e lm="Polonja"><i>Polonja</i><par n="Malta__np"/></e>
+    <e lm="Prussja"><i>Prussja</i><par n="Malta__np"/></e>
+    <e lm="Russja"><i>Russja</i><par n="Malta__np"/></e>
+    <e lm="Serbja"><i>Serbja</i><par n="Malta__np"/></e>
+    <e lm="Spanja"><i>Spanja</i><par n="Malta__np"/></e>
+    <e lm="Valencia"><i>Valencia</i><par n="Malta__np"/></e>
+    <e lm="Pariġi"><i>Pariġi</i><par n="Malta__np"/></e>
+    <e lm="Brussell"><i>Brussell</i><par n="Malta__np"/></e>
+    <e lm="Milan"><i>Milan</i><par n="Malta__np"/></e>
+    <e lm="Simshar"><i>Simshar</i><par n="Malta__np"/></e>
+    <e lm="Bidnija"><i>Bidnija</i><par n="Malta__np"/></e>
+    <e lm="Birkirkara"><i>Birkirkara</i><par n="Malta__np"/></e>
+    <e lm="Birżebbuġa"><i>Birżebbuġa</i><par n="Malta__np"/></e>
+    <e lm="Bormla"><i>Bormla</i><par n="Malta__np"/></e>
+    <e lm="Bubaqra"><i>Bubaqra</i><par n="Malta__np"/></e>
+    <e lm="Buġibba"><i>Buġibba</i><par n="Malta__np"/></e>
+    <e lm="Għajn Tuffieħa"><i>Għajn<b/>Tuffieħa</i><par n="Malta__np"/></e>
+    <e lm="Gwardamanġa"><i>Gwardamanġa</i><par n="Malta__np"/></e>
+    <e lm="Ħal Lija"><i>Ħal<b/>Lija</i><par n="Malta__np"/></e>
+    <e lm="Ħal Luqa"><i>Ħal<b/>Luqa</i><par n="Malta__np"/></e>
+    <e lm="Ħal-Balzan"><i>Ħal-Balzan</i><par n="Malta__np"/></e>
+    <e lm="Ħal-Balzan" r="LR"><p><l>Ħal<b/>Balzan</l><r>Ħal-Balzan</r></p><par n="Malta__np"/></e>
+    <e lm="Balzan"><i>Balzan</i><par n="Malta__np"/></e>
+    <e lm="Iċ-Ċirkewwa"><i>Iċ-Ċirkewwa</i><par n="Malta__np"/></e>
+    <e lm="Id-Dwejra"><i>id-Dwejra</i><par n="Malta__np"/></e>
+    <e lm="Il-Baħrija"><i>Il-Baħrija</i><par n="Malta__np"/></e>
+    <e lm="Il-Belt Valletta"><i>Il-Belt<b/>Valletta</i><par n="Malta__np"/></e>
+    <e lm="Il-Birguma"><i>Il-Birguma</i><par n="Malta__np"/></e>
+    <e lm="Il-Fgura"><i>Il-Fgura</i><par n="Malta__np"/></e>
+    <e lm="Il-Furjana"><i>Il-Furjana</i><par n="Malta__np"/></e>
+    <e lm="Il-Ġnejna"><i>il-Ġnejna</i><par n="Malta__np"/></e>
+    <e lm="Il-Gudja"><i>Il-Gudja</i><par n="Malta__np"/></e>
+    <e lm="Il-Gżira"><i>Il-Gżira</i><par n="Malta__np"/></e>
+    <e lm="Il-Kalafrana"><i>Il-Kalafrana</i><par n="Malta__np"/></e>
+    <e lm="Il-Kalkara"><i>Il-Kalkara</i><par n="Malta__np"/></e>
+    <e lm="Il-Kappara"><i>Il-Kappara</i><par n="Malta__np"/></e>
+    <e lm="Il-Madliena"><i>Il-Madliena</i><par n="Malta__np"/></e>
+    <e lm="Il-Manikata"><i>Il-Manikata</i><par n="Malta__np"/></e>
+    <e lm="Il-Marfa"><i>Il-Marfa</i><par n="Malta__np"/></e>
+    <e lm="Il-Marsa"><i>Il-Marsa</i><par n="Malta__np"/></e>
+    <e lm="Il-Mellieħa"><i>Il-Mellieħa</i><par n="Malta__np"/></e>
+    <e lm="Il-Mistra"><i>Il-Mistra</i><par n="Malta__np"/></e>
+    <e lm="Il-Mosta"><i>il-Mosta</i><par n="Malta__np"/></e>
+    <e lm="Il-Qajjenza"><i>Il-Qajjenza</i><par n="Malta__np"/></e>
+    <e lm="Il-Qala"><i>Il-Qala</i><par n="Malta__np"/></e>
+    <e lm="Il-Qawra"><i>Il-Qawra</i><par n="Malta__np"/></e>
+    <e lm="Il-Wardija"><i>Il-Wardija</i><par n="Malta__np"/></e>
+    <e lm="Is-Salina"><i>Is-Salina</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xagħra"><i>Ix-Xagħra</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xemxija"><i>Ix-Xemxija</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xewkija"><i>Ix-Xewkija</i><par n="Malta__np"/></e>
+    <e lm="Ix-Xgħajra"><i>Ix-Xgħajra</i><par n="Malta__np"/></e>
+    <e lm="Kemmuna"><i>Kemmuna</i><par n="Malta__np"/></e>
+    <e lm="L-Għadira"><i>L-Għadira</i><par n="Malta__np"/></e>
+    <e lm="L-Imdina"><i>l-Imdina</i><par n="Malta__np"/></e>
+    <e lm="L-Imqabba"><i>L-Imqabba</i><par n="Malta__np"/></e>
+    <e lm="L-Imsida"><i>L-Imsida</i><par n="Malta__np"/></e>
+    <e lm="L-Imtarfa"><i>L-Imtarfa</i><par n="Malta__np"/></e>
+    <e lm="L-Isla"><i>L-Isla</i><par n="Malta__np"/></e>
+    <e lm="San Pawl tat-Tarġa"><i>San<b/>Pawl<b/>tat-Tarġa</i><par n="Malta__np"/></e>
+    <e lm="Santa Luċija"><i>Santa<b/>Luċija</i><par n="Malta__np"/></e>
+    <e lm="Santa Venera"><i>Santa<b/>Venera</i><par n="Malta__np"/></e>
+    <e lm="Tal-Pietà"><i>Tal-Pietà</i><par n="Malta__np"/></e>
+    <e lm="Tas-Sliema"><i>Tas-Sliema</i><par n="Malta__np"/></e>
+    <e lm="Sliema"><i>Sliema</i><par n="Malta__np"/></e>
+    <e lm="Olanda"><i>Olanda</i><par n="Malta__np"/></e>
+    <e lm="Firenze"><i>Firenze</i><par n="Malta__np"/></e>
+    <e lm="Turkija"><i>Turkija</i><par n="Malta__np"/></e>
+    <e lm="Ungerija"><i>Ungerija</i><par n="Malta__np"/></e>
+    <e lm="Iżvizzera"><i>Iżvizzera</i><par n="Malta__np"/></e>
+    <e lm="Venezja"><i>Venezja</i><par n="Malta__np"/></e>
+    <e lm="Rumanija"><i>Rumanija</i><par n="Malta__np"/></e>
+    <e lm="Ukrajna"><i>Ukrajna</i><par n="Malta__np"/></e>
+    <e lm="Bulgarija"><i>Bulgarija</i><par n="Malta__np"/></e>
+    <e lm="Albanija"><i>Albanija</i><par n="Malta__np"/></e>
+    <e lm="Kroazja"><i>Kroazja</i><par n="Malta__np"/></e>
+    <e lm="Kastilija"><i>Kastilija</i><par n="Malta__np"/></e>
+    <e lm="Iskozja"><i>Iskozja</i><par n="Malta__np"/></e>
+    <e lm="Sirja"><i>Sirja</i><par n="Malta__np"/></e>
+    <e lm="Indja"><i>Indja</i><par n="Malta__np"/></e>
+    <e lm="Vjenna"><i>Vjenna</i><par n="Malta__np"/></e>
+    <e lm="Bolonja"><i>Bolonja</i><par n="Malta__np"/></e>
+    <e lm="Cape Town"><i>Cape<b/>Town</i><par n="Tibet__np"/></e>
+    <e lm="Belġju"><i>Belġju</i><par n="Tibet__np"/></e>
+    <e lm="Ċipru"><i>Ċipru</i><par n="Tibet__np"/></e>
+    <e lm="Eġittu"><i>Eġittu</i><par n="Tibet__np"/></e>
+    <e lm="Ġerusalemm"><i>Ġerusalemm</i><par n="Tibet__np"/></e>
+    <e lm="Portugall"><i>Portugall</i><par n="Tibet__np"/></e>
+    <e lm="Lussemburgu"><i>Lussemburgu</i><par n="Tibet__np"/></e>
+    <e lm="Zurrieq"><i>Zurrieq</i><par n="Tibet__np"/></e>
+    <e lm="Bejġing"><i>Bejġing</i><par n="Tibet__np"/></e>
+    <e lm="San Pietruburgu"><i>San<b/>Pietruburgu</i><par n="Tibet__np"/></e>
+    <e lm="Tibet"><i>Tibet</i><par n="Tibet__np"/></e>
+    <e lm="Berlin"><i>Berlin</i><par n="Tibet__np"/></e>
+    <e lm="Bolton"><i>Bolton</i><par n="Tibet__np"/></e>
+    <e lm="Brażil"><i>Brażil</i><par n="Tibet__np"/></e>
+    <e lm="Bromwich"><i>Bromwich</i><par n="Tibet__np"/></e>
+    <e lm="Coventry"><i>Coventry</i><par n="Tibet__np"/></e>
+    <e lm="Frankfurt"><i>Frankfurt</i><par n="Tibet__np"/></e>
+    <e lm="Schengen"><i>Schengen</i><par n="Tibet__np"/></e>
+    <e lm="Dublin"><i>Dublin</i><par n="Tibet__np"/></e>
+    <e lm="Fulham"><i>Fulham</i><par n="Tibet__np"/></e>
+    <e lm="Iżrael"><i>Iżrael</i><par n="Tibet__np"/></e>
+    <e lm="Ġappun"><i>Ġappun</i><par n="Tibet__np"/></e>
+    <e lm="Kosovo"><i>Kosovo</i><par n="Tibet__np"/></e>
+    <e lm="Leeds"><i>Leeds</i><par n="Tibet__np"/></e>
+    <e lm="Liverpool"><i>Liverpool</i><par n="Tibet__np"/></e>
+    <e lm="Madrid"><i>Madrid</i><par n="Tibet__np"/></e>
+    <e lm="Manchester"><i>Manchester</i><par n="Tibet__np"/></e>
+    <e lm="Marsaxlokk"><i>Marsaxlokk</i><par n="Tibet__np"/></e>
+    <e lm="Messiku"><i>Messiku</i><par n="Tibet__np"/></e>
+    <e lm="Montenegro"><i>Montenegro</i><par n="Tibet__np"/></e>
+    <e lm="Munich"><i>Munich</i><par n="Tibet__np"/></e>
+    <e lm="Sheffield"><i>Sheffield</i><par n="Tibet__np"/></e>
+    <e lm="Stamford"><i>Stamford</i><par n="Tibet__np"/></e>
+    <e lm="Tottenham"><i>Tottenham</i><par n="Tibet__np"/></e>
+    <e lm="Vatikan"><i>Vatikan</i><par n="Tibet__np"/></e>
+    <e lm="York"><i>York</i><par n="Tibet__np"/></e>
+    <e lm="Ekwador"><i>Ekwador</i><par n="Tibet__np"/></e>
+    <e lm="Austin"><i>Austin</i><par n="Tibet__np"/></e>
+    <e lm="Rabat"><i>Rabat</i><par n="Tibet__np"/></e>
+    <e lm="Baħar iċ-Ċagħaq"><i>Baħar<b/>iċ-Ċagħaq</i><par n="Tibet__np"/></e>
+    <e lm="Burmarrad"><i>Burmarrad</i><par n="Tibet__np"/></e>
+    <e lm="Fleur de Lys"><i>Fleur<b/>de<b/>Lys</i><par n="Tibet__np"/></e>
+    <e lm="Għajnsielem"><i>Għajnsielem</i><par n="Tibet__np"/></e>
+    <e lm="Ħad-Dingli"><i>Ħad-Dingli</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Far"><i>Ħal<b/>Far</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Għargħur"><i>Ħal<b/>Għargħur</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Għaxaq"><i>Ħal<b/>Għaxaq</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Qormi"><i>Ħal<b/>Qormi</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Safi"><i>Ħal<b/>Safi</i><par n="Tibet__np"/></e>
+    <e lm="Ħal Tarxien"><i>Ħal<b/>Tarxien</i><par n="Tibet__np"/></e>
+    <e lm="Ħ'Attard"><i>Ħ'Attard</i><par n="Tibet__np"/></e>
+    <e lm="Ħaż-Żabbar"><i>Ħaż-Żabbar</i><par n="Tibet__np"/></e>
+    <e lm="Ħaż-Żebbuġ"><i>Ħaż-Żebbuġ</i><par n="Tibet__np"/></e>
+    <e lm="Il-Birgu"><i>Il-Birgu</i><par n="Tibet__np"/></e>
+    <e lm="Il-Blue Grotto"><i>Il-Blue<b/>Grotto</i><par n="Tibet__np"/></e>
+    <e lm="Il-Fontana"><i>Il-Fontana</i><par n="Tibet__np"/></e>
+    <e lm="Il-Ħamrun"><i>Il-Ħamrun</i><par n="Tibet__np"/></e>
+    <e lm="Il-Magħtab"><i>Il-Magħtab</i><par n="Tibet__np"/></e>
+    <e lm="Il-Munxar"><i>Il-Munxar</i><par n="Tibet__np"/></e>
+    <e lm="Il-Pwales"><i>Il-Pwales</i><par n="Tibet__np"/></e>
+    <e lm="Il-Qrendi"><i>Il-Qrendi</i><par n="Tibet__np"/></e>
+    <e lm="In-Nadur"><i>In-Nadur</i><par n="Tibet__np"/></e>
+    <e lm="In-Naxxar"><i>In-Naxxar</i><par n="Tibet__np"/></e>
+    <e lm="Ir-Rabat"><i>Ir-Rabat</i><par n="Tibet__np"/></e>
+    <e lm="Ir-Rabat" r="LR"><p><l>Ir<b/>Rabat</l><r>Ir-Rabat</r></p><par n="Tibet__np"/></e>
+    <e lm="Ir-Rikażli"><i>Ir-Rikażli</i><par n="Tibet__np"/></e>
+    <e lm="Is-Siġġiewi"><i>Is-Siġġiewi</i><par n="Tibet__np"/></e>
+    <e lm="Is-Swieqi"><i>Is-Swieqi</i><par n="Tibet__np"/></e>
+    <e lm="Ix-Xlendi"><i>Ix-Xlendi</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żebbiegħ"><i>Iż-Żebbiegħ</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żebbuġ"><i>Iż-Żebbuġ</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żejtun"><i>Iż-Żejtun</i><par n="Tibet__np"/></e>
+    <e lm="Iż-Żurrieq"><i>Iż-Żurrieq</i><par n="Tibet__np"/></e>
+    <e lm="L-Armier"><i>L-Armier</i><par n="Tibet__np"/></e>
+    <e lm="L-Għarb"><i>L-Għarb</i><par n="Tibet__np"/></e>
+    <e lm="L-Għasri"><i>L-Għasri</i><par n="Tibet__np"/></e>
+    <e lm="L-Iklin"><i>L-Iklin</i><par n="Tibet__np"/></e>
+    <e lm="L-Imġarr"><i>L-Imġarr</i><par n="Tibet__np"/></e>
+    <e lm="L-Imġarr"><i>L-Imġarr</i><par n="Tibet__np"/></e>
+    <e lm="L-Imrieħel"><i>L-Imrieħel</i><par n="Tibet__np"/></e>
+    <e lm="L-Imtaħleb"><i>L-Imtaħleb</i><par n="Tibet__np"/></e>
+    <e lm="Manoel Island"><i>Manoel<b/>Island</i><par n="Tibet__np"/></e>
+    <e lm="Marsalforn"><i>Marsalforn</i><par n="Tibet__np"/></e>
+    <e lm="Marsaskala"><i>Marsaskala</i><par n="Tibet__np"/></e>
+    <e lm="Marsaxlokk"><i>Marsaxlokk</i><par n="Tibet__np"/></e>
+    <e lm="Paceville"><i>Paceville</i><par n="Tibet__np"/></e>
+    <e lm="Paola"><i>Paola</i><par n="Tibet__np"/></e>
+    <e lm="Pembroke"><i>Pembroke</i><par n="Tibet__np"/></e>
+    <e lm="Ruma" c="Rome"><i>Ruma</i><par n="Tibet__np"/></e>
+    <e lm="Chelsea"><i>Chelsea</i><par n="Tibet__np"/></e>
+    <e lm="San Blas"><i>San<b/>Blas</i><par n="Tibet__np"/></e>
+    <e lm="San Ġiljan"><i>San<b/>Ġiljan</i><par n="Tibet__np"/></e>
+    <e lm="San Ġwann"><i>San<b/>Ġwann</i><par n="Tibet__np"/></e>
+    <e lm="San Lawrenz"><i>San<b/>Lawrenz</i><par n="Tibet__np"/></e>
+    <e lm="San Martin"><i>San<b/>Martin</i><par n="Tibet__np"/></e>
+    <e lm="San Pawl il-Bahar"><i>San<b/>Pawl<b/>il-Bahar</i><par n="Tibet__np"/></e>
+    <e lm="San Marino"><i>San<b/>Marino</i><par n="Tibet__np"/></e>
+    <e lm="San Pawl il-Belt"><i>San<b/>Pawl<b/>il-Belt</i><par n="Tibet__np"/></e>
+    <e lm="San Tumas"><i>San<b/>Tumas</i><par n="Tibet__np"/></e>
+    <e lm="San Ġużepp"><i>San<b/>Ġużepp</i><par n="Tibet__np"/></e>
+    <e lm="San Ġakbu"><i>San<b/>Ġakbu</i><par n="Tibet__np"/></e>
+    <e lm="Libanu"><i>Libanu</i><par n="Tibet__np"/></e>
+    <e lm="Wied il-Għajn"><i>Wied<b/>il-Għajn</i><par n="Tibet__np"/></e>
+    <e lm="Fomm ir-Riħ"><i>Fomm<b/>ir-Riħ</i><par n="Tibet__np"/></e>
+    <e lm="Santa Liberata"><i>Santa<b/>Liberata</i><par n="Tibet__np"/></e>
+    <e lm="Santa Katerina"><i>Santa<b/>Katerina</i><par n="Tibet__np"/></e>
+    <e lm="Santa Margerita"><i>Santa<b/>Margerita</i><par n="Tibet__np"/></e>
+    <e lm="Santa Luċija"><i>Santa<b/>Luċija</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Kerċem"><i>Ta'<b/>Kerċem</i><par n="Tibet__np"/></e>
+    <e lm="Tal-Ibraġ"><i>Tal-Ibraġ</i><par n="Tibet__np"/></e>
+    <e lm="Tal-Virtù"><i>Tal-Virtù</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Pinu"><i>Ta'<b/>Pinu</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Qali"><i>Ta'<b/>Qali</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Sannat"><i>Ta'<b/>Sannat</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Xbiex"><i>Ta'<b/>Xbiex</i><par n="Tibet__np"/></e>
+    <e lm="Ta' Xuri"><i>Ta'<b/>Xuri</i><par n="Tibet__np"/></e>
+    <e lm="Wied iż-Żurrieq"><i>Wied<b/>iż-Żurrieq</i><par n="Tibet__np"/></e>
+    <e lm="Finlandja"><i>Finlandja</i><par n="Malta__np"/></e>
+    <e lm="Estonja"><i>Estonja</i><par n="Malta__np"/></e>
+    <e lm="Hira"><i>Hira</i><par n="Malta__np"/></e>

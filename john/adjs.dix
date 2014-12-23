@@ -1,0 +1,854 @@
+    <e lm="kiesaħ"><i>k</i><par n="k/iesaħ__adj"/></e>
+    <e lm="ferħan"><i>ferħan</i><par n="maħmuġ__adj"/></e>
+    <e lm="attent"><i>attent</i><par n="nativ__adj"/></e>
+    <e lm="xiħ" c="old person"><i>x</i><par n="x/iħ__adj"/></e>
+    <e lm="kbir" c="big"><i>kb</i><par n="kb/ir__adj"/></e>
+    <e lm="kbir"><p><l>akbar</l><r>kbir</r></p><par n="akbar__adj"/></e>
+    <e lm="kbir"><p><l>ikbar</l><r>kbir</r></p><par n="akbar__adj"/></e>
+    <e lm="żgħir"><i>żgħ</i><par n="kb/ir__adj"/></e>
+    <e lm="fqir" c="poor" ><i>f</i><par n="f/qir__adj"/></e>
+    <e lm="fqir"><p><l>ifqar</l><r>fqir</r></p><par n="akbar__adj"/></e>
+    <e lm="stess" c="same"><i>stess</i><par n="ohxon__adj"/></e>
+    <e lm="tajjeb" c="good"><i>taj</i><par n="taj/jeb__adj"/></e>
+    <e lm="tajjeb"><p><l>aħjar</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
+    <e lm="tajjeb" r="LR"><p><l>itjeb</l><r>tajjeb</r></p><par n="akbar__adj"/></e>
+    <e lm="mejjet" c="dead"><i>mej</i><par n="mej/jet__adj"/></e>
+    <e lm="ewropew"><i>ewrope</i><par n="Ewrope/w__adj"/></e>
+    <e lm="politiku"><i>politi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="elettroniku"><i>elettroni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="uniku"><i>uni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="semitiku"><i>semiti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="terroristiku"><i>terroristi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kritiku"><i>kriti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="sovjetiku"><i>sovjeti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="olimpiku"><i>olimpi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku"><i>brittani</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku" r="LR"><p><l>brittanni</l><r>brittani</r></p><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku" r="LR"><p><l>britanni</l><r>brittani</r></p><par n="teknoloġi/ku__adj"/></e>
+    <e lm="brittaniku" r="LR"><p><l>britani</l><r>brittani</r></p><par n="teknoloġi/ku__adj"/></e>
+    <e lm="melodiku"><i>melodi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="analitiku"><i>analiti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="artistiku"><i>artisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="astroloġiku"><i>astroloġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="astronomiku"><i>astronomi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="atomiku"><i>atomi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="awtomatiku"><i>awtomati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="bażiku"><i>bażi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="botaniku"><i>botani</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="demokratiku"><i>demokrati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="diplomatiku"><i>diplomati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="domestiku"><i>domesti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ekonomiku"><i>ekonomi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="elastiku"><i>elasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="endemiku"><i>endemi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="filosofiku"><i>filosofi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="fiżiku"><i>fiżi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġeneriku"><i>ġeneri</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġenetiku"><i>ġeneti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġeografiku"><i>ġeografi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kattoliku"><i>kattoli</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kimiku"><i>kimi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="klassiku"><i>klassi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="lingwistiku"><i>lingwisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="matematiku"><i>matemati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="mediku"><i>medi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="patrijottiku"><i>patrijotti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="poetiku"><i>poeti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="pubbliku"><i>pubbli</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="romantiku"><i>romanti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="speċifiku"><i>speċifi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="storiku"><i>stori</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="xjentifiku"><i>xjentifi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="alfabetiku"><i>alfabeti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ċiviku"><i>ċivi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="dinamiku"><i>dinami</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="dogmatiku"><i>dogmati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="drammatiku"><i>drammati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="drastiku"><i>drasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ekkleżjastiku"><i>ekkleżjasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="eretiku"><i>ereti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="estetiku"><i>esteti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="etiku"><i>eti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="evanġeliku"><i>evanġeli</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="fanatiku"><i>fanati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="folkloristiku"><i>folkloristi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="forensiku"><i>forensi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="ġurnalistiku"><i>gurnalisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="identiku"><i>identi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kanoniku"><i>kanoni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="karatteristiku"><i>karatteristi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="katastrofiku"><i>katastrofi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="kategoriku"><i>kategori</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="prattiku"><i>pratti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="prolifiku"><i>prolifi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="psikoloġiku"><i>psikoloġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="realistiku"><i>realisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="reċiproku"><i>reċipro</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="sistematiku"><i>sistemati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="skolastiku"><i>skolasti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="strateġiku"><i>strateġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="tattiku"><i>tatti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="tekniku"><i>tekni</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="teokratiku"><i>teokrati</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="traġiku"><i>traġi</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="turistiku"><i>turisti</i><par n="teknoloġi/ku__adj"/></e>
+    <e lm="reliġjuż"><i>reliġjuż</i><par n="nativ__adj"/></e>
+    <e lm="kollaborattiv"><i>kollaborattiv</i><par n="nativ__adj"/></e>
+    <e lm="ċar"><i>ċar</i><par n="nativ__adj"/></e>
+    <e lm="ambizzjuż"><i>ambizzjuż</i><par n="nativ__adj"/></e>
+    <e lm="eskluż"><i>eskluż</i><par n="nativ__adj"/></e>
+    <e lm="famuż"><i>famuż</i><par n="nativ__adj"/></e>
+    <e lm="grazzjuż"><i>grazzjuż</i><par n="nativ__adj"/></e>
+    <e lm="inkluż"><i>inkluż</i><par n="nativ__adj"/></e>
+    <e lm="prestiġjuż"><i>prestiġjuż</i><par n="nativ__adj"/></e>
+    <e lm="studjuż"><i>studjuż</i><par n="nativ__adj"/></e>
+    <e lm="allegat"><i>allegat</i><par n="nativ__adj"/></e>
+    <e lm="uman"><i>uman</i><par n="nativ__adj"/></e>
+    <e lm="vjolent"><i>vjolent</i><par n="nativ__adj"/></e>
+    <e lm="dubbjuż"><i>dubbjuż</i><par n="nativ__adj"/></e>
+    <e lm="informat" c="informed"><i>informat</i><par n="nativ__adj"/></e>
+    <e lm="klandestin"><i>klandestin</i><par n="nativ__adj"/></e>
+    <e lm="eminent"><i>eminent</i><par n="eminent__adj"/></e>
+    <e lm="prominent"><i>prominent</i><par n="eminent__adj"/></e>
+    <e lm="permanent"><i>permanent</i><par n="eminent__adj"/></e>
+    <e lm="imponent"><i>imponent</i><par n="eminent__adj"/></e>
+    <e lm="imminent"><i>imminent</i><par n="eminent__adj"/></e>
+    <e lm="etniċ"><i>etniċ</i><par n="nativ__adj"/></e>
+    <e lm="pposedut"><i>pposedut</i><par n="nativ__adj"/></e>
+    <e lm="ingliż"><i>ingliż</i><par n="nativ__adj"/></e>
+    <e lm="albaniż"><i>albaniż</i><par n="nativ__adj"/></e>
+    <e lm="bengaliż"><i>bengaliż</i><par n="nativ__adj"/></e>
+    <e lm="bergamiż"><i>bergamiż</i><par n="nativ__adj"/></e>
+    <e lm="bolonjiż"><i>bolonjiż</i><par n="nativ__adj"/></e>
+    <e lm="bulgariż"><i>bulgariż</i><par n="nativ__adj"/></e>
+    <e lm="ċiniż"><i>ċiniż</i><par n="nativ__adj"/></e>
+    <e lm="daniż"><i>daniż</i><par n="nativ__adj"/></e>
+    <e lm="franċiż"><i>franċiż</i><par n="nativ__adj"/></e>
+    <e lm="furjaniż"><i>furjaniż</i><par n="nativ__adj"/></e>
+    <e lm="galliż"><i>galliż</i><par n="nativ__adj"/></e>
+    <e lm="ġappuniż"><i>ġappuniż</i><par n="nativ__adj"/></e>
+    <e lm="ġermaniż"><i>ġermaniż</i><par n="nativ__adj"/></e>
+    <e lm="irlandiż"><i>irlandiż</i><par n="nativ__adj"/></e>
+    <e lm="kalabriż"><i>kalabriż</i><par n="nativ__adj"/></e>
+    <e lm="kanadiż"><i>kanadiż</i><par n="nativ__adj"/></e>
+    <e lm="olandiż"><i>olandiż</i><par n="nativ__adj"/></e>
+    <e lm="portugiż"><i>portugiż</i><par n="nativ__adj"/></e>
+    <e lm="tajlandiż"><i>tajlandiż</i><par n="nativ__adj"/></e>
+    <e lm="tibetan"><i>tibetan</i><par n="nativ__adj"/></e>
+    <e lm="pariġin"><i>pariġin</i><par n="nativ__adj"/></e>
+    <e lm="grieg"><i>grieg</i><par n="nativ__adj"/></e>
+    <e lm="malti"><i>malti</i><par n="Malti__adj"/></e>
+    <e lm="għarbi" c="Arab"><i>għarbi</i><par n="Malti__adj"/></e>
+    <e lm="wiesa'"><i>wies</i><par n="wies/a'__adj"/></e>
+    <e lm="ħaj"><i>ħaj</i><par n="ħaj__adj"/></e>
+    <e lm="kontemporanju"><i>kontemporanj</i><par n="kwadr/u__adj"/></e>
+    <e lm="propju" r="LR"><p><l>propj</l><r>proprj</r></p><par n="kwadr/u__adj"/></e>
+    <e lm="proprju"><i>proprj</i><par n="kwadr/u__adj"/></e>
+    <e lm="santu"><i>sant</i><par n="kwadr/u__adj"/></e>
+    <e lm="serju" c="serious"><i>serj</i><par n="kwadr/u__adj"/></e>
+    <e lm="abjad" c="white"><i></i><par n="/abjad__adj"/></e>
+    <e lm="artab" c="soft"><i></i><par n="/artab__adj"/></e>
+    <e lm="aħdar"><i></i><par n="/aħdar__adj"/></e>
+    <e lm="aħmar" c="red"><i></i><par n="/aħmar__adj"/></e>
+    <e lm="barrani"><i>barrani</i><par n="barrani__adj"/></e>
+    <e lm="dejjaq" c="narrow"><i>d</i><par n="d/ejjaq__adj"/></e>
+    <e lm="dejjaq"><p><l>idjaq</l><r>dejjaq</r></p><par n="akbar__adj"/></e>
+    <e lm="dgħajjef"><i>dgħaj</i><par n="dgħaj/jef__adj"/></e>
+    <e lm="fond"><i>fond</i><par n="griż__adj"/></e>
+    <e lm="griż"><i>griż</i><par n="griż__adj"/></e>
+    <e lm="għoli"><i>għol</i><par n="għol/i__adj"/></e>
+    <e lm="għoli"><p><l>ogħla</l><r>għoli</r></p><par n="akbar__adj"/></e>
+    <e lm="ħażin"><i>ħ</i><par n="ħ/ażin__adj"/></e>
+    <e lm="ħażin"><p><l>aħżen</l><r>ħażin</r></p><par n="akbar__adj"/></e>
+    <e lm="ħażin" r="LR"><p><l>eħżen</l><r>ħażin</r></p><par n="akbar__adj"/></e>
+    <e lm="iebes"><i>i</i><par n="i/ebes__adj"/></e>
+    <e lm="imxarrab"><i>imxarr</i><par n="imxarr/ab__adj"/></e>
+    <e lm="isfar" c="yellow"><i></i><par n="/isfar__adj"/></e>
+    <e lm="iswed" c="black"><i></i><par n="/iswed__adj"/></e>
+    <e lm="kwadru"><i>kwadr</i><par n="kwadr/u__adj"/></e>
+    <e lm="veru"><i>ver</i><par n="kwadr/u__adj"/></e>
+    <e lm="kwiet"><i>kwiet</i><par n="griż__adj"/></e>
+    <e lm="maħmuġ"><i>maħmuġ</i><par n="maħmuġ__adj"/></e>
+    <e lm="mgħaġġel"><i>mgħaġġ</i><par n="mgħaġġ/el__adj"/></e>
+    <e lm="mielaħ"><i>miel</i><par n="miel/aħ__adj"/></e>
+    <e lm="morr"><i>morr</i><par n="griż__adj"/></e>
+    <e lm="mudlam"><i>mudlam</i><par n="vojt__adj"/></e>
+    <e lm="nadif" c="clean"><i>n</i><par n="n/adif__adj"/></e>
+    <e lm="oħxon"><i>o</i><par n="o/ħxon__adj"/></e>
+    <e lm="ohxon"><p><l>ehxen</l><r>ohxon</r></p><par n="ohxon__adj"/></e>
+    <e lm="qadim" c="old"><i>q</i><par n="q/adim__adj"/></e>
+    <e lm="qares"><i>qar</i><par n="qar/es__adj"/></e>
+    <e lm="magħruf" c="famous"><i>magħruf</i><par n="maħmuġ__adj"/></e>
+    <e lm="qaddis" c="holy"><i>qaddis</i><par n="maħmuġ__adj"/></e>
+    <e lm="qasir" c="short"><i>q</i><par n="q/asir__adj"/></e>
+    <e lm="qasir"><p><l>iqsar</l><r>qasir</r></p><par n="akbar__adj"/></e>
+    <e lm="qawwi"><i>qawwi</i><par n="qawwi__adj"/></e>
+    <e lm="qawwi"><p><l>aqwa</l><r>qawwi</r></p><par n="akbar__adj"/></e>
+    <e lm="rqiq"><i>rq</i><par n="rq/iq__adj"/></e>
+    <e lm="rħis" c="cheap"><i>rħ</i><par n="rħ/is__adj"/></e>
+    <e lm="storbjuż"><i>storbjuż</i><par n="griż__adj"/></e>
+    <e lm="sħiħ" c="whole"><i>sħ</i><par n="sħ/iħ__adj"/></e>
+    <e lm="tqil" c="heavy"><i>tq</i><par n="tq/il__adj"/></e>
+    <e lm="twil"><i>tw</i><par n="tq/il__adj"/></e>
+    <e lm="vojt"><i>vojt</i><par n="vojt__adj"/></e>
+    <e lm="ġdid"><i>ġ</i><par n="ġ/did__adj"/></e>
+    <e lm="ħafif"><i>ħ</i><par n="ħ/afif__adj"/></e>
+    <e lm="ħelu"><i>ħel</i><par n="ħel/u__adj"/></e>
+    <e lm="taljan"><i>taljan</i><par n="nativ__adj"/></e>
+    <e lm="iżraeljan"><i>iżraeljan</i><par n="nativ__adj"/></e>
+    <e lm="estint"><i>estint</i><par n="nativ__adj"/></e>
+    <e lm="amerikan"><i>amerikan</i><par n="nativ__adj"/></e>
+    <e lm="ruman"><i>ruman</i><par n="nativ__adj"/></e>
+    <e lm="antik"><i>antik</i><par n="nativ__adj"/></e>
+    <e lm="ċert"><i>ċert</i><par n="nativ__adj"/></e>
+    <e lm="użat"><i>użat</i><par n="nativ__adj"/></e>
+    <e lm="relatat"><i>relatat</i><par n="nativ__adj"/></e>
+    <e lm="latin"><i>latin</i><par n="nativ__adj"/></e>
+    <e lm="baxx"><i>baxx</i><par n="nativ__adj"/></e>
+    <e lm="modern"><i>modern</i><par n="nativ__adj"/></e>
+    <e lm="elett"><i>elett</i><par n="nativ__adj"/></e>
+    <e lm="lest"><i>lest</i><par n="nativ__adj"/></e>
+    <e lm="spanjol"><i>spanjol</i><par n="nativ__adj"/></e>
+    <e lm="awstraljan"><i>awstraljan</i><par n="nativ__adj"/></e>
+    <e lm="attiv"><i>attiv</i><par n="nativ__adj"/></e>
+    <e lm="dirett"><i>dirett</i><par n="nativ__adj"/></e>
+    <e lm="kantant"><i>kantant</i><par n="nativ__adj"/></e>
+    <e lm="afrikan"><i>afrikan</i><par n="nativ__adj"/></e>
+    <e lm="armat"><i>armat</i><par n="nativ__adj"/></e>
+    <e lm="eżatt"><i>eżatt</i><par n="nativ__adj"/></e>
+    <e lm="ibbażat"><i>ibbażat</i><par n="nativ__adj"/></e>
+    <e lm="bbażat"><p><l>bbażat</l><r>ibbażat</r></p><par n="nativ__adj"/></e>
+    <e lm="sportiv"><i>sportiv</i><par n="nativ__adj"/></e>
+    <e lm="nattiv"><i>nattiv</i><par n="nativ__adj"/></e>
+    <e lm="organizzat"><i>organizzat</i><par n="nativ__adj"/></e>
+    <e lm="żgur"><i>żgur</i><par n="nativ__adj"/></e>
+    <e lm="separat"><i>separat</i><par n="nativ__adj"/></e>
+    <e lm="privat"><i>privat</i><par n="nativ__adj"/></e>
+    <e lm="aċċettat"><i>aċċettat</i><par n="nativ__adj"/></e>
+    <e lm="żviluppat"><i>żviluppat</i><par n="nativ__adj"/></e>
+    <e lm="rappreżentat"><i>rappreżentat</i><par n="nativ__adj"/></e>
+    <e lm="deskritt"><i>deskritt</i><par n="nativ__adj"/></e>
+    <e lm="suċċessiv"><i>suċċessiv</i><par n="nativ__adj"/></e>
+    <e lm="konsekuttiv"><i>konsekuttiv</i><par n="nativ__adj"/></e>
+    <e lm="definit"><i>definit</i><par n="nativ__adj"/></e>
+    <e lm="ristrett"><i>ristrett</i><par n="nativ__adj"/></e>
+    <e lm="rikonoxxut"><i>rikonoxxut</i><par n="nativ__adj"/></e>
+    <e lm="ottoman"><i>ottoman</i><par n="nativ__adj"/></e>
+    <e lm="skopert"><i>skopert</i><par n="nativ__adj"/></e>
+    <e lm="ikkunsidrat"><i>ikkunsidrat</i><par n="nativ__adj"/></e>
+    <e lm="kkunsidrat" r="LR"><p><l>kkunsidrat</l><r>ikkunsidrat</r></p><par n="nativ__adj"/></e>
+    <e lm="eġizzjan"><i>eġizzjan</i><par n="nativ__adj"/></e>
+    <e lm="notturn"><i>notturn</i><par n="nativ__adj"/></e>
+    <e lm="iddedikat"><i>iddedikat</i><par n="nativ__adj"/></e>
+    <e lm="televiżiv"><i>televiżiv</i><par n="nativ__adj"/></e>
+    <e lm="limitat"><i>limitat</i><par n="nativ__adj"/></e>
+    <e lm="deċiż"><i>deċiż</i><par n="nativ__adj"/></e>
+    <e lm="adult"><i>adult</i><par n="nativ__adj"/></e>
+    <e lm="pożittiv"><i>pożittiv</i><par n="nativ__adj"/></e>
+    <e lm="kompost"><i>kompost</i><par n="nativ__adj"/></e>
+    <e lm="belġjan"><i>belġjan</i><par n="nativ__adj"/></e>
+    <e lm="skurjat"><i>skurjat</i><par n="nativ__adj"/></e>
+    <e lm="komplut"><i>komplut</i><par n="nativ__adj"/></e>
+    <e lm="rispettiv"><i>rispettiv</i><par n="nativ__adj"/></e>
+    <e lm="stabbilit"><i>stabbilit</i><par n="nativ__adj"/></e>
+    <e lm="skoċċiż"><i>skoċċiż</i><par n="nativ__adj"/></e>
+    <e lm="offensiv"><i>offensiv</i><par n="nativ__adj"/></e>
+    <e lm="favorit"><i>favorit</i><par n="nativ__adj"/></e>
+    <e lm="dumnikan"><i>dumnikan</i><par n="nativ__adj"/></e>
+    <e lm="derivat"><i>derivat</i><par n="nativ__adj"/></e>
+    <e lm="protett"><i>protett</i><par n="nativ__adj"/></e>
+    <e lm="distint"><i>distint</i><par n="nativ__adj"/></e>
+    <e lm="assoċjat"><i>assoċjat</i><par n="nativ__adj"/></e>
+    <e lm="vast"><i>vast</i><par n="nativ__adj"/></e>
+    <e lm="libjan"><i>libjan</i><par n="nativ__adj"/></e>
+    <e lm="segwit"><i>segwit</i><par n="nativ__adj"/></e>
+    <e lm="profond"><i>profond</i><par n="nativ__adj"/></e>
+    <e lm="pollakk"><i>pollakk</i><par n="nativ__adj"/></e>
+    <e lm="brażiljan"><i>brażiljan</i><par n="nativ__adj"/></e>
+    <e lm="indjan"><i>indjan</i><par n="nativ__adj"/></e>
+    <e lm="estern"><i>estern</i><par n="nativ__adj"/></e>
+    <e lm="assolut"><i>assolut</i><par n="nativ__adj"/></e>
+    <e lm="difensiv"><i>difensiv</i><par n="nativ__adj"/></e>
+    <e lm="kumpless"><i>kumpless</i><par n="nativ__adj"/></e>
+    <e lm="kompless" r="LR"><p><l>kompless</l><r>kumpless</r></p><par n="nativ__adj"/></e>
+    <e lm="ippubblikat"><i>ippubblikat</i><par n="nativ__adj"/></e>
+    <e lm="introdott"><i>introdott</i><par n="nativ__adj"/></e>
+    <e lm="iffurmat"><i>iffurmat</i><par n="nativ__adj"/></e>
+    <e lm="prussjan"><i>prussjan</i><par n="nativ__adj"/></e>
+    <e lm="nominat"><i>nominat</i><par n="nativ__adj"/></e>
+    <e lm="xott"><i>xott</i><par n="nativ__adj"/></e>
+    <e lm="approvat"><i>approvat</i><par n="nativ__adj"/></e>
+    <e lm="influwenzat"><i>influwenzat</i><par n="nativ__adj"/></e>
+    <e lm="applikat"><i>applikat</i><par n="nativ__adj"/></e>
+    <e lm="serb"><i>serb</i><par n="nativ__adj"/></e>
+    <e lm="okkupat"><i>okkupat</i><par n="nativ__adj"/></e>
+    <e lm="involut"><i>involut</i><par n="nativ__adj"/></e>
+    <e lm="sospiż"><i>sospiż</i><par n="nativ__adj"/></e>
+    <e lm="sinjur"><i>sinjur</i><par n="nativ__adj"/></e>
+    <e lm="infinit"><i>infinit</i><par n="nativ__adj"/></e>
+    <e lm="reġistrat"><i>reġistrat</i><par n="nativ__adj"/></e>
+    <e lm="modifikat"><i>modifikat</i><par n="nativ__adj"/></e>
+    <e lm="kompetittiv"><i>kompetittiv</i><par n="nativ__adj"/></e>
+    <e lm="diskuss"><i>diskuss</i><par n="nativ__adj"/></e>
+    <e lm="addattat"><i>addattat</i><par n="nativ__adj"/></e>
+    <e lm="alternattiv"><i>alternattiv</i><par n="nativ__adj"/></e>
+    <e lm="speċjalizzat"><i>speċjalizzat</i><par n="nativ__adj"/></e>
+    <e lm="prim"><i>prim</i><par n="nativ__adj"/></e>
+    <e lm="ortodoss"><i>ortodoss</i><par n="nativ__adj"/></e>
+    <e lm="ddikjarat"><i>ddikjarat</i><par n="nativ__adj"/></e>
+    <e lm="estiż"><i>estiż</i><par n="nativ__adj"/></e>
+    <e lm="ċċelebrat"><i>ċċelebrat</i><par n="nativ__adj"/></e>
+    <e lm="amministrattiv"><i>amministrattiv</i><par n="nativ__adj"/></e>
+    <e lm="preċiż"><i>preċiż</i><par n="nativ__adj"/></e>
+    <e lm="kwadrat"><i>kwadrat</i><par n="nativ__adj"/></e>
+    <e lm="sovran"><i>sovran</i><par n="nativ__adj"/></e>
+    <e lm="relattiv"><i>relattiv</i><par n="nativ__adj"/></e>
+    <e lm="osservat"><i>osservat</i><par n="nativ__adj"/></e>
+    <e lm="persjan"><i>persjan</i><par n="nativ__adj"/></e>
+    <e lm="superjur"><i>superjur</i><par n="nativ__adj"/></e>
+    <e lm="fidil"><i>fidil</i><par n="nativ__adj"/></e>
+    <e lm="negattiv"><i>negattiv</i><par n="nativ__adj"/></e>
+    <e lm="iżolat"><i>iżolat</i><par n="nativ__adj"/></e>
+    <e lm="abbandunat"><i>abbandunat</i><par n="nativ__adj"/></e>
+    <e lm="sostitwit"><i>sostitwit</i><par n="nativ__adj"/></e>
+    <e lm="korrett"><i>korrett</i><par n="nativ__adj"/></e>
+    <e lm="ikkonfermat"><i>ikkonfermat</i><par n="nativ__adj"/></e>
+    <e lm="frisk"><i>frisk</i><par n="nativ__adj"/></e>
+    <e lm="dilettant"><i>dilettant</i><par n="nativ__adj"/></e>
+    <e lm="biżantin"><i>biżantin</i><par n="nativ__adj"/></e>
+    <e lm="apprezzat"><i>apprezzat</i><par n="nativ__adj"/></e>
+    <e lm="anglikan"><i>anglikan</i><par n="nativ__adj"/></e>
+    <e lm="arrestat"><i>arrestat</i><par n="nativ__adj"/></e>
+    <e lm="sigriet"><i>sigriet</i><par n="nativ__adj"/></e>
+    <e lm="kroat"><i>kroat</i><par n="nativ__adj"/></e>
+    <e lm="attribwit"><i>attribwit</i><par n="nativ__adj"/></e>
+    <e lm="akkwistat"><i>akkwistat</i><par n="nativ__adj"/></e>
+    <e lm="tond"><i>tond</i><par n="nativ__adj"/></e>
+    <e lm="trasformat"><i>trasformat</i><par n="nativ__adj"/></e>
+    <e lm="musulman"><i>musulman</i><par n="nativ__adj"/></e>
+    <e lm="finit"><i>finit</i><par n="nativ__adj"/></e>
+    <e lm="estensiv"><i>estensiv</i><par n="nativ__adj"/></e>
+    <e lm="kreattiv"><i>kreattiv</i><par n="nativ__adj"/></e>
+    <e lm="korean"><i>korean</i><par n="nativ__adj"/></e>
+    <e lm="ġgant"><i>ġgant</i><par n="nativ__adj"/></e>
+    <e lm="evoluttiv"><i>evoluttiv</i><par n="nativ__adj"/></e>
+    <e lm="norveġiż"><i>norveġiż</i><par n="nativ__adj"/></e>
+    <e lm="moderat"><i>moderat</i><par n="nativ__adj"/></e>
+    <e lm="kuntent"><i>kuntent</i><par n="nativ__adj"/></e>
+    <e lm="impost"><i>impost</i><par n="nativ__adj"/></e>
+    <e lm="ikkawżat"><i>ikkawżat</i><par n="nativ__adj"/></e>
+    <e lm="identifikat"><i>identifikat</i><par n="nativ__adj"/></e>
+    <e lm="ungeriż"><i>ungeriż</i><par n="nativ__adj"/></e>
+    <e lm="primittiv"><i>primittiv</i><par n="nativ__adj"/></e>
+    <e lm="tradott"><i>tradott</i><par n="nativ__adj"/></e>
+    <e lm="strett"><i>strett</i><par n="nativ__adj"/></e>
+    <e lm="stramb"><i>stramb</i><par n="nativ__adj"/></e>
+    <e lm="differenti"><i>differenti</i><par n="differenti__adj"/></e>
+    <e lm="universali"><i>universali</i><par n="differenti__adj"/></e>
+    <e lm="multilingwali"><i>multilingwali</i><par n="differenti__adj"/></e>
+    <e lm="nazzjonali"><i>nazzjonali</i><par n="differenti__adj"/></e>
+    <e lm="trijonfali"><i>trijonfali</i><par n="differenti__adj"/></e>
+    <e lm="ġenerali"><i>ġenerali</i><par n="differenti__adj"/></e>
+    <e lm="oriġinali"><i>oriġinali</i><par n="differenti__adj"/></e>
+    <e lm="internazzjonali"><i>internazzjonali</i><par n="differenti__adj"/></e>
+    <e lm="importanti"><i>importanti</i><par n="differenti__adj"/></e>
+    <e lm="verifikabbli"><i>verifikabbli</i><par n="differenti__adj"/></e>
+    <e lm="newtrali"><i>newtrali</i><par n="differenti__adj"/></e>
+    <e lm="simili"><i>simili</i><par n="differenti__adj"/></e>
+    <e lm="ċivili"><i>ċivili</i><par n="differenti__adj"/></e>
+    <e lm="mużikali"><i>mużikali</i><par n="differenti__adj"/></e>
+    <e lm="parlamentari"><i>parlamentari</i><par n="differenti__adj"/></e>
+    <e lm="blu"><i>blu</i><par n="differenti__adj"/></e>
+    <e lm="kannella"><i>kannella</i><par n="differenti__adj"/></e>
+    <e lm="oranġjo"><i>oranġjo</i><par n="differenti__adj"/></e>
+    <e lm="vjola"><i>vjola</i><par n="differenti__adj"/></e>
+    <e lm="trijangulari"><i>trijangulari</i><par n="differenti__adj"/></e>
+    <e lm="popolari"><i>popolari</i><par n="differenti__adj"/></e>
+    <e lm="pikkanti"><i>pikkanti</i><par n="differenti__adj"/></e>
+    <e lm="diffiċli"><i>diffiċli</i><par n="differenti__adj"/></e>
+    <e lm="faċli"><i>faċli</i><par n="differenti__adj"/></e>
+    <e lm="lokali"><i>lokali</i><par n="differenti__adj"/></e>
+    <e lm="komuni"><i>komuni</i><par n="differenti__adj"/></e>
+    <e lm="ambjentali"><i>ambjentali</i><par n="differenti__adj"/></e>
+    <e lm="attwali"><i>attwali</i><par n="differenti__adj"/></e>
+    <e lm="ċentrali"><i>ċentrali</i><par n="differenti__adj"/></e>
+    <e lm="elettorali"><i>elettorali</i><par n="differenti__adj"/></e>
+    <e lm="essenzjali"><i>essenzjali</i><par n="differenti__adj"/></e>
+    <e lm="fatali"><i>fatali</i><par n="differenti__adj"/></e>
+    <e lm="formali"><i>formali</i><par n="differenti__adj"/></e>
+    <e lm="fundamentali"><i>fundamentali</i><par n="differenti__adj"/></e>
+    <e lm="individwali"><i>individwali</i><par n="differenti__adj"/></e>
+    <e lm="industrijali"><i>industrijali</i><par n="differenti__adj"/></e>
+    <e lm="intellettwali"><i>intellettwali</i><par n="differenti__adj"/></e>
+    <e lm="kriminali"><i>kriminali</i><par n="differenti__adj"/></e>
+    <e lm="kulturali"><i>kulturali</i><par n="differenti__adj"/></e>
+    <e lm="kummerċjali"><i>kummerċjali</i><par n="differenti__adj"/></e>
+    <e lm="legali"><i>legali</i><par n="differenti__adj"/></e>
+    <e lm="llegali" r="LR"><p><l>llegali</l><r>legali</r></p><par n="differenti__adj"/></e>
+    <e lm="liberali"><i>liberali</i><par n="differenti__adj"/></e>
+    <e lm="mentali"><i>mentali</i><par n="differenti__adj"/></e>
+    <e lm="morali"><i>morali</i><par n="differenti__adj"/></e>
+    <e lm="naturali"><i>naturali</i><par n="differenti__adj"/></e>
+    <e lm="normali"><i>normali</i><par n="differenti__adj"/></e>
+    <e lm="parrokkjali"><i>parrokkjali</i><par n="differenti__adj"/></e>
+    <e lm="pastorali"><i>pastorali</i><par n="differenti__adj"/></e>
+    <e lm="personali"><i>personali</i><par n="differenti__adj"/></e>
+    <e lm="prinċipali"><i>prinċipali</i><par n="differenti__adj"/></e>
+    <e lm="professjonali"><i>professjonali</i><par n="differenti__adj"/></e>
+    <e lm="reali"><i>reali</i><par n="differenti__adj"/></e>
+    <e lm="sesswali"><i>sesswali</i><par n="differenti__adj"/></e>
+    <e lm="soċjali"><i>soċjali</i><par n="differenti__adj"/></e>
+    <e lm="sostanzjali"><i>sostanzjali</i><par n="differenti__adj"/></e>
+    <e lm="speċjali"><i>speċjali</i><par n="differenti__adj"/></e>
+    <e lm="spiritwali"><i>spiritwali</i><par n="differenti__adj"/></e>
+    <e lm="tradizzjonali"><i>tradizzjonali</i><par n="differenti__adj"/></e>
+    <e lm="uffiċjali"><i>uffiċjali</i><par n="differenti__adj"/></e>
+    <e lm="ilegali"><i>ilegali</i><par n="differenti__adj"/></e>
+    <e lm="illegali" r="LR"><p><l>illegali</l><r>ilegali</r></p><par n="differenti__adj"/></e>
+    <e lm="kontroversjali"><i>kontroversjali</i><par n="differenti__adj"/></e>
+    <e lm="interessanti"><i>interessanti</i><par n="differenti__adj"/></e>
+    <e lm="possibbli"><i>possibbli</i><par n="differenti__adj"/></e>
+    <e lm="possibli" r="LR"><p><l>possibli</l><r>possibbli</r></p><par n="differenti__adj"/></e>
+    <e lm="partikolari" c="particular"><i>partikolari</i><par n="differenti__adj"/></e>
+    <e lm="partikulari" r="LR"><p><l>partikulari</l><r>partikolari</r></p><par n="differenti__adj"/></e>
+    <e lm="responsabbli" c="responsible"><i>responsabbli</i><par n="differenti__adj"/></e>
+    <e lm="kmieni" c="early"><i>kmieni</i><par n="differenti__adj"/></e>
+    <e lm="gravi" c="serious"><i>gravi</i><par n="differenti__adj"/></e>
+    <e lm="kunfidenzali" c="confidential"><i>kunfidenzali</i><par n="differenti__adj"/></e>
+    <e lm="rari" c="rare"><i>rari</i><par n="differenti__adj"/></e>
+    <e lm="kapaċi" c="able"><i>kapaċi</i><par n="differenti__adj"/></e>
+    <e lm="sempliċi" c="simple"><i>sempliċi</i><par n="differenti__adj"/></e>
+    <e lm="enormi" c="enormous"><i>enormi</i><par n="differenti__adj"/></e>
+    <e lm="reċenti" c="recent"><i>reċenti</i><par n="differenti__adj"/></e>
+    <e lm="nobbli" c="noble"><i>nobbli</i><par n="differenti__adj"/></e>
+    <e lm="regolari" c="regular"><i>regolari</i><par n="differenti__adj"/></e>
+    <e lm="irregolari" c="irregular"><i>irregolari</i><par n="differenti__adj"/></e>
+    <e lm="indipendenti" c="independent"><i>indipendenti</i><par n="differenti__adj"/></e>
+    <e lm="familjari" c="familiar"><i>familjari</i><par n="differenti__adj"/></e>
+    <e lm="editorjali" c="editorial"><i>editorjali</i><par n="differenti__adj"/></e>
+    <e lm="radikali" c="radical"><i>radikali</i><par n="differenti__adj"/></e>
+    <e lm="tropikali" c="tropical"><i>tropikali</i><par n="differenti__adj"/></e>
+    <e lm="fiskali" c="fiscal"><i>fiskali</i><par n="differenti__adj"/></e>
+    <e lm="subtropikali" c="subtropical"><i>subtropikali</i><par n="differenti__adj"/></e>
+    <e lm="klerikali" c="clerical"><i>klerikali</i><par n="differenti__adj"/></e>
+    <e lm="patrijarkali" c="petriarchial"><i>patrijarkali</i><par n="differenti__adj"/></e>
+    <e lm="vertikali" c="vertical"><i>vertikali</i><par n="differenti__adj"/></e>
+    <e lm="kruċjali" c="crucial"><i>kruċjali</i><par n="differenti__adj"/></e>
+    <e lm="mondjali" c="global"><i>mondjali</i><par n="differenti__adj"/></e>
+    <e lm="globali" c="global"><i>globali</i><par n="differenti__adj"/></e>
+    <e lm="kapitali" c="capital"><i>kapitali</i><par n="differenti__adj"/></e>
+    <e lm="totali" c="total"><i>totali</i><par n="differenti__adj"/></e>
+    <e lm="kuljum" c="daily"><i>kuljum</i><par n="differenti__adj"/></e>
+    <e lm="miftuħa" c="open"><i>miftuħa</i><par n="differenti__adj"/></e>
+    <e lm="varju" c="various"><i>varj</i><par n="kwadr/u__adj"/></e>
+    <e lm="unit" c="united"><i>unit</i><par n="nativ__adj"/></e>
+    <e lm="komunist"><i>komunist</i><par n="nativ__adj"/></e>
+    <e lm="soċjalist"><i>soċjalist</i><par n="nativ__adj"/></e>
+    <e lm="laburist"><i>laburist</i><par n="nativ__adj"/></e>
+    <e lm="nazzjonalist"><i>nazzjonalist</i><par n="nativ__adj"/></e>
+    <e lm="professjonist"><i>professjonist</i><par n="nativ__adj"/></e>
+    <e lm="kollettiv"><i>kollettiv</i><par n="nativ__adj"/></e>
+    <e lm="intiż"><i>intiż</i><par n="nativ__adj"/></e>
+    <e lm="indirizzat"><i>indirizzat</i><par n="nativ__adj"/></e>
+    <e lm="attakkat"><i>attakkat</i><par n="nativ__adj"/></e>
+    <e lm="akkumpanjat"><i>akkumpanjat</i><par n="nativ__adj"/></e>
+    <e lm="sensittiv"><i>sensittiv</i><par n="nativ__adj"/></e>
+    <e lm="invażiv"><i>invażiv</i><par n="nativ__adj"/></e>
+    <e lm="interpretat"><i>interpretat</i><par n="nativ__adj"/></e>
+    <e lm="fjamming"><i>fjamming</i><par n="nativ__adj"/></e>
+    <e lm="espost"><i>espost</i><par n="nativ__adj"/></e>
+    <e lm="allokat"><i>allokat</i><par n="nativ__adj"/></e>
+    <e lm="solvut"><i>solvut</i><par n="nativ__adj"/></e>
+    <e lm="salvat"><i>salvat</i><par n="nativ__adj"/></e>
+    <e lm="rranġat"><i>rranġat</i><par n="nativ__adj"/></e>
+    <e lm="kwalifikat"><i>kwalifikat</i><par n="nativ__adj"/></e>
+    <e lm="kompatt"><i>kompatt</i><par n="nativ__adj"/></e>
+    <e lm="kkontrollat"><i>kkontrollat</i><par n="nativ__adj"/></e>
+    <e lm="katalan"><i>katalan</i><par n="nativ__adj"/></e>
+    <e lm="immarkat"><i>immarkat</i><par n="nativ__adj"/></e>
+    <e lm="ffirmat"><i>ffirmat</i><par n="nativ__adj"/></e>
+    <e lm="dettaljat"><i>dettaljat</i><par n="nativ__adj"/></e>
+    <e lm="falz" c="FALSE" ><i>f</i><par n="f/alz__adj"/></e>
+    <e lm="baħnan" c="fool" ><i>b</i><par n="b/aħnan__adj"/></e>
+    <e lm="għani" c="rich" ><i>għ</i><par n="għ/ani__adj"/></e>
+    <e lm="ċuċ" c="idiot" ><i>ċ</i><par n="ċ/uċ__adj"/></e>
+    <e lm="xħiħ" c="greedy" ><i>sħ</i><par n="sħ/iħ__adj"/></e>
+    <e lm="ħobla" c="pregnant" ><i>ħ</i><par n="ħ/obla__adj_f"/></e>
+    <e lm="qalil" c="fierce" ><i>q</i><par n="q/alil__adj"/></e>
+    <e lm="sabiħ" c="beautiful" ><i>s</i><par n="s/abiħ__adj"/></e>
+    <e lm="sħun" c="hot" ><i>sħ</i><par n="sħ/un__adj"/></e>
+    <e lm="żgħir" c="small" ><i>żgħ</i><par n="kb/ir__adj"/></e>
+    <e lm="twil" c="tall" ><i>tw</i><par n="tq/il__adj"/></e>
+    <e lm="nisrani" c="christian" ><i>n</i><par n="n/israni__adj"/></e>
+    <e lm="aħrax" c="harsh"><i></i><par n="/aħrax__adj"/></e>
+    <e lm="marid" c="sick" ><i>m</i><par n="m/arid__adj"/></e>
+    <e lm="tork" c="Turkish" ><i>tor</i><par n="tor/k__adj"/></e>
+    <e lm="ikħal" c="blue" ><i></i><par n="/ikħal__adj"/></e>
+    <e lm="iblah" c="idiot" ><i></i><par n="/iblah__adj"/></e>
+    <e lm="ismar" c="suntanned" ><i></i><par n="/ismar__adj"/></e>
+    <e lm="għażiż" c="beloved" ><i>għ</i><par n="għ/ażiż__adj"/></e>
+    <e lm="ikrah" c="ugly" ><i></i><par n="/ikrah__adj"/></e>
+    <e lm="trux" c="deaf" ><i>t</i><par n="t/rux__adj"/></e>
+    <e lm="għaref" c="wise" ><i>għ</i><par n="għ/aref__adj"/></e>
+    <e lm="fartas" c="bald" ><i>f</i><par n="f/artas__adj"/></e>
+    <e lm="ħafif" c="light" ><i>ħ</i><par n="ħ/afif__adj"/></e>
+    <e lm="miġnun" c="mad" ><i>m</i><par n="m/iġnun__adj"/></e>
+    <e lm="iblaq" c="dusky" ><i></i><par n="/iblaq__adj"/></e>
+    <e lm="miskin" c="pitiable" ><i>m</i><par n="m/iskin__adj"/></e>
+    <e lm="mistieden" c="invited" ><i>mistied</i><par n="mistied/en__adj"/></e>
+    <e lm="parteċipant" c="participating" ><i>parteċipant</i><par n="nativ__adj"/></e>
+    <e lm="finali" c="final" ><i>final</i><par n="eminent__adj"/></e>
+    <e lm="divers" c="different" ><i>divers</i><par n="nativ__adj"/></e>
+    <e lm="anzjan" c="ancient"><i>anzjan</i><par n="nativ__adj"/></e>
+    <e lm="nominali" c="nominal"><i>nominal</i><par n="eminent__adj"/></e>
+    <e lm="verbali" c="verbal"><i>verbal</i><par n="eminent__adj"/></e>
+    <e lm="aġġettivali" c="adjectival"><i>aġġettival</i><par n="eminent__adj"/></e>
+    <e lm="grammatikali" c="grammatical"><i>grammatikal</i><par n="eminent__adj"/></e>
+    <e lm="djalettali" c="dialectal"><i>djalettal</i><par n="eminent__adj"/></e>
+    <e lm="mimmat" c="mimated"><i>mimmat</i><par n="nativ__adj"/></e>
+    <e lm="femminili" c="feminine"><i>femminil</i><par n="eminent__adj"/></e>
+    <e lm="astratt" c="abstract"><i>astratt</i><par n="nativ__adj"/></e>
+    <e lm="maħkum" c="governed"><i>maħkum</i><par n="nativ__adj"/></e>
+    <e lm="ewlieni" c="primary"><i>ewl</i><par n="ewl/ieni__adj"/></e>
+    <e lm="ħoxni" c="fat"><i>ħoxni</i><par n="Malti__adj"/></e>
+    <e lm="fitt" c="importunate"><i>fitt</i><par n="nativ__adj"/></e>
+    <e lm="bsaħħit" c="strong"><p><l>b'saħħit</l><r>bsaħħit</r></p><par n="bsaħħit/u__adj"/></e>
+    <e lm="mnissel" c="derived"><i>mniss</i><par n="mniss/el__adj"/></e>
+    <e lm="imqaddes" c="sacred"><i>imqaddes</i><par n="nativ__adj"/></e>
+    <e lm="imħabbar" c="announced"><i>imħabbar</i><par n="nativ__adj"/></e>
+    <e lm="sqalli" c="Sicilian"><i>sqalli</i><par n="Malti__adj"/></e>
+    <e lm="vokali" c="vocal"><i>vokal</i><par n="eminent__adj"/></e>
+    <e lm="bgħid" c="distant"><i>bgħ</i><par n="bgħ/id__adj"/></e>
+    <e lm="integrali" c="integral"><i>integrali</i><par n="differenti__adj"/></e>
+    <e lm="futur" c="future"><i>futur</i><par n="nativ__adj"/></e>
+    <e lm="Gregorjan" c="Gregorian"><i>Gregorjan</i><par n="nativ__adj"/></e>
+    <e lm="finanzjarju" c="financial"><i>finanzjarj</i><par n="kwadr/u__adj"/></e>
+    <e lm="militari" c="military"><i>militari</i><par n="differenti__adj"/></e>
+    <e lm="preżenti" c="present"><i>preżenti</i><par n="differenti__adj"/></e>
+    <e lm="segwenti" c="subsequent"><i>segwenti</i><par n="differenti__adj"/></e>
+    <e lm="preċedenti" c="previous"><i>preċedenti</i><par n="differenti__adj"/></e>
+    <e lm="ħati" c="guilty"><i>ħat</i><par n="ħat/i__adj"/></e>
+    <e lm="ppreżentat"><i>ppreżentat</i><par n="nativ__adj"/></e>
+    <e lm="perikoluż"><i>perikoluż</i><par n="nativ__adj"/></e>
+    <e lm="onorat"><i>onorat</i><par n="nativ__adj"/></e>
+    <e lm="offrut"><i>offrut</i><par n="nativ__adj"/></e>
+    <e lm="immedjat"><i>immedjat</i><par n="nativ__adj"/></e>
+    <e lm="garantit"><i>garantit</i><par n="nativ__adj"/></e>
+    <e lm="effettiv"><i>effettiv</i><par n="nativ__adj"/></e>
+    <e lm="delikat"><i>delikat</i><par n="nativ__adj"/></e>
+    <e lm="approprjat"><i>approprjat</i><par n="nativ__adj"/></e>
+    <e lm="skedat"><i>skedat</i><par n="nativ__adj"/></e>
+    <e lm="progressiv"><i>progressiv</i><par n="nativ__adj"/></e>
+    <e lm="luteran"><i>luteran</i><par n="nativ__adj"/></e>
+    <e lm="iddisinjat"><i>iddisinjat</i><par n="nativ__adj"/></e>
+    <e lm="fdat"><i>fdat</i><par n="nativ__adj"/></e>
+    <e lm="akkużat"><i>akkużat</i><par n="nativ__adj"/></e>
+    <e lm="toskan"><i>toskan</i><par n="nativ__adj"/></e>
+    <e lm="rifless"><i>rifless</i><par n="nativ__adj"/></e>
+    <e lm="provdut"><i>provdut</i><par n="nativ__adj"/></e>
+    <e lm="konvint"><i>konvint</i><par n="nativ__adj"/></e>
+    <e lm="spjegat"><i>spjegat</i><par n="nativ__adj"/></e>
+    <e lm="pożizzjonat"><i>pożizzjonat</i><par n="nativ__adj"/></e>
+    <e lm="objettiv"><i>objettiv</i><par n="nativ__adj"/></e>
+    <e lm="kuban"><i>kuban</i><par n="nativ__adj"/></e>
+    <e lm="konservattiv"><i>konservattiv</i><par n="nativ__adj"/></e>
+    <e lm="konkret"><i>konkret</i><par n="nativ__adj"/></e>
+    <e lm="kkaratterizzat"><i>kkaratterizzat</i><par n="nativ__adj"/></e>
+    <e lm="karatterizzat" r="RL"><p><l>karatterizzat</l><r>kkaratterizzat</r></p><par n="nativ__adj"/></e>
+    <e lm="jugoslav"><i>jugoslav</i><par n="nativ__adj"/></e>
+    <e lm="ikkritikat"><i>ikkritikat</i><par n="nativ__adj"/></e>
+    <e lm="espressiv"><i>espressiv</i><par n="nativ__adj"/></e>
+    <e lm="żbaljat"><i>żbaljat</i><par n="nativ__adj"/></e>
+    <e lm="suprem"><i>suprem</i><par n="nativ__adj"/></e>
+    <e lm="sfurzat"><i>sfurzat</i><par n="nativ__adj"/></e>
+    <e lm="rinomat"><i>rinomat</i><par n="nativ__adj"/></e>
+    <e lm="modest"><i>modest</i><par n="nativ__adj"/></e>
+    <e lm="konness"><i>konness</i><par n="nativ__adj"/></e>
+    <e lm="inkurunat"><i>inkurunat</i><par n="nativ__adj"/></e>
+    <e lm="inklinat"><i>inklinat</i><par n="nativ__adj"/></e>
+    <e lm="folt"><i>folt</i><par n="nativ__adj"/></e>
+    <e lm="finlandiż"><i>finlandiż</i><par n="nativ__adj"/></e>
+    <e lm="elevat"><i>elevat</i><par n="nativ__adj"/></e>
+    <e lm="ddeterminat"><i>ddeterminat</i><par n="nativ__adj"/></e>
+    <e lm="assigurat"><i>assigurat</i><par n="nativ__adj"/></e>
+    <e lm="assedjat"><i>assedjat</i><par n="nativ__adj"/></e>
+    <e lm="ammess"><i>ammess</i><par n="nativ__adj"/></e>
+    <e lm="abolit"><i>abolit</i><par n="nativ__adj"/></e>
+    <e lm="speċifikat"><i>speċifikat</i><par n="nativ__adj"/></e>
+    <e lm="rivedut"><i>rivedut</i><par n="nativ__adj"/></e>
+    <e lm="rikk"><i>rikk</i><par n="nativ__adj"/></e>
+    <e lm="palestinjan"><i>palestinjan</i><par n="nativ__adj"/></e>
+    <e lm="numeruż"><i>numeruż</i><par n="nativ__adj"/></e>
+    <e lm="newtonjan"><i>newtonjan</i><par n="nativ__adj"/></e>
+    <e lm="modern"><i>modern</i><par n="nativ__adj"/></e>
+    <e lm="kkalkulat"><i>kkalkulat</i><par n="nativ__adj"/></e>
+    <e lm="ippjanat"><i>ippjanat</i><par n="nativ__adj"/></e>
+    <e lm="ikkundannat"><i>ikkundannat</i><par n="nativ__adj"/></e>
+    <e lm="ġeneruż"><i>ġeneruż</i><par n="nativ__adj"/></e>
+    <e lm="edukattiv"><i>edukattiv</i><par n="nativ__adj"/></e>
+    <e lm="ċilen"><i>ċilen</i><par n="nativ__adj"/></e>
+    <e lm="velenuż"><i>velenuż</i><par n="nativ__adj"/></e>
+    <e lm="ttrattat"><i>ttrattat</i><par n="nativ__adj"/></e>
+    <e lm="sileżjan"><i>sileżjan</i><par n="nativ__adj"/></e>
+    <e lm="selvaġġ"><i>selvaġġ</i><par n="nativ__adj"/></e>
+    <e lm="popolat"><i>popolat</i><par n="nativ__adj"/></e>
+    <e lm="lixx"><i>lixx</i><par n="nativ__adj"/></e>
+    <e lm="kkonsagrat"><i>kkonsagrat</i><par n="nativ__adj"/></e>
+    <e lm="irrekordjat"><i>irrekordjat</i><par n="nativ__adj"/></e>
+    <e lm="invitat"><i>invitat</i><par n="nativ__adj"/></e>
+    <e lm="installat"><i>installat</i><par n="nativ__adj"/></e>
+    <e lm="ġgantesk"><i>ġgantesk</i><par n="nativ__adj"/></e>
+    <e lm="entużjast"><i>entużjast</i><par n="nativ__adj"/></e>
+    <e lm="viżiv"><i>viżiv</i><par n="nativ__adj"/></e>
+    <e lm="verifikat"><i>verifikat</i><par n="nativ__adj"/></e>
+    <e lm="venezjan"><i>venezjan</i><par n="nativ__adj"/></e>
+    <e lm="sodisfatt"><i>sodisfatt</i><par n="nativ__adj"/></e>
+    <e lm="sloven"><i>sloven</i><par n="nativ__adj"/></e>
+    <e lm="sinjifikattiv"><i>sinjifikattiv</i><par n="nativ__adj"/></e>
+    <e lm="rtirat"><i>rtirat</i><par n="nativ__adj"/></e>
+    <e lm="riferut"><i>riferut</i><par n="nativ__adj"/></e>
+    <e lm="repubblikan"><i>repubblikan</i><par n="nativ__adj"/></e>
+    <e lm="preferit"><i>preferit</i><par n="nativ__adj"/></e>
+    <e lm="peruvjan"><i>peruvjan</i><par n="nativ__adj"/></e>
+    <e lm="parallel"><i>parallel</i><par n="nativ__adj"/></e>
+    <e lm="ortodoss"><i>ortodoss</i><par n="nativ__adj"/></e>
+    <e lm="naplitan"><i>naplitan</i><par n="nativ__adj"/></e>
+    <e lm="konservat"><i>konservat</i><par n="nativ__adj"/></e>
+    <e lm="iranjan"><i>iranjan</i><par n="nativ__adj"/></e>
+    <e lm="imbuttat"><i>imbuttat</i><par n="nativ__adj"/></e>
+    <e lm="grat"><i>grat</i><par n="nativ__adj"/></e>
+    <e lm="formulat"><i>formulat</i><par n="nativ__adj"/></e>
+    <e lm="figurattiv"><i>figurattiv</i><par n="nativ__adj"/></e>
+    <e lm="ferrieħ"><i>ferrieħ</i><par n="nativ__adj"/></e>
+    <e lm="edukat"><i>edukat</i><par n="nativ__adj"/></e>
+    <e lm="deċisiv"><i>deċisiv</i><par n="nativ__adj"/></e>
+    <e lm="benedittin"><i>benedittin</i><par n="nativ__adj"/></e>
+    <e lm="attiv"><i>attiv</i><par n="nativ__adj"/></e>
+    <e lm="assistit"><i>assistit</i><par n="nativ__adj"/></e>
+    <e lm="amministrat"><i>amministrat</i><par n="nativ__adj"/></e>
+    <e lm="adegwat"><i>adegwat</i><par n="nativ__adj"/></e>
+    <e lm="slovakk"><i>slovakk</i><par n="nativ__adj"/></e>
+    <e lm="rigoruż"><i>rigoruż</i><par n="nativ__adj"/></e>
+    <e lm="qarrieq"><i>qarrieq</i><par n="nativ__adj"/></e>
+    <e lm="protettiv"><i>protettiv</i><par n="nativ__adj"/></e>
+    <e lm="produttiv"><i>produttiv</i><par n="nativ__adj"/></e>
+    <e lm="previst"><i>previst</i><par n="nativ__adj"/></e>
+    <e lm="ppruvat"><i>ppruvat</i><par n="nativ__adj"/></e>
+    <e lm="massiv"><i>massiv</i><par n="nativ__adj"/></e>
+    <e lm="infettat"><i>infettat</i><par n="nativ__adj"/></e>
+    <e lm="glorjuż"><i>glorjuż</i><par n="nativ__adj"/></e>
+    <e lm="ġenwin"><i>ġenwin</i><par n="nativ__adj"/></e>
+    <e lm="galilejan"><i>galilejan</i><par n="nativ__adj"/></e>
+    <e lm="esegwit"><i>esegwit</i><par n="nativ__adj"/></e>
+    <e lm="esaġerat"><i>esaġerat</i><par n="nativ__adj"/></e>
+    <e lm="ċiprijott"><i>ċiprijott</i><par n="nativ__adj"/></e>
+    <e lm="aggressiv"><i>aggressiv</i><par n="nativ__adj"/></e>
+    <e lm="unifikat"><i>unifikat</i><par n="nativ__adj"/></e>
+    <e lm="trojjan"><i>trojjan</i><par n="nativ__adj"/></e>
+    <e lm="sanzjonat"><i>sanzjonat</i><par n="nativ__adj"/></e>
+    <e lm="proklamat"><i>proklamat</i><par n="nativ__adj"/></e>
+    <e lm="pariġin"><i>pariġin</i><par n="nativ__adj"/></e>
+    <e lm="konċernat"><i>konċernat</i><par n="nativ__adj"/></e>
+    <e lm="komplikat"><i>komplikat</i><par n="nativ__adj"/></e>
+    <e lm="irrispettat"><i>irrispettat</i><par n="nativ__adj"/></e>
+    <e lm="immirat"><i>immirat</i><par n="nativ__adj"/></e>
+    <e lm="emendat"><i>emendat</i><par n="nativ__adj"/></e>
+    <e lm="dekorat"><i>dekorat</i><par n="nativ__adj"/></e>
+    <e lm="cert"><i>cert</i><par n="nativ__adj"/></e>
+    <e lm="bask"><i>bask</i><par n="nativ__adj"/></e>
+    <e lm="arjan"><i>arjan</i><par n="nativ__adj"/></e>
+    <e lm="appassjonat"><i>appassjonat</i><par n="nativ__adj"/></e>
+    <e lm="analizzat"><i>analizzat</i><par n="nativ__adj"/></e>
+    <e lm="akkanit"><i>akkanit</i><par n="nativ__adj"/></e>
+    <e lm="vjenniż"><i>vjenniż</i><par n="nativ__adj"/></e>
+    <e lm="suġġettiv"><i>suġġettiv</i><par n="nativ__adj"/></e>
+    <e lm="stipulat"><i>stipulat</i><par n="nativ__adj"/></e>
+    <e lm="sirjan"><i>sirjan</i><par n="nativ__adj"/></e>
+    <e lm="semplifikat"><i>semplifikat</i><par n="nativ__adj"/></e>
+    <e lm="rilaxxat"><i>rilaxxat</i><par n="nativ__adj"/></e>
+    <e lm="rifjutat"><i>rifjutat</i><par n="nativ__adj"/></e>
+    <e lm="restawrat"><i>restawrat</i><par n="nativ__adj"/></e>
+    <e lm="ratifikat"><i>ratifikat</i><par n="nativ__adj"/></e>
+    <e lm="preparat"><i>preparat</i><par n="nativ__adj"/></e>
+    <e lm="passiv"><i>passiv</i><par n="nativ__adj"/></e>
+    <e lm="kuraġġuż"><i>kuraġġuż</i><par n="nativ__adj"/></e>
+    <e lm="innovattiv"><i>innovattiv</i><par n="nativ__adj"/></e>
+    <e lm="indirett"><i>indirett</i><par n="nativ__adj"/></e>
+    <e lm="ikkupjat"><i>ikkupjat</i><par n="nativ__adj"/></e>
+    <e lm="fondat"><i>fondat</i><par n="nativ__adj"/></e>
+    <e lm="eżaminat"><i>eżaminat</i><par n="nativ__adj"/></e>
+    <e lm="distribwit"><i>distribwit</i><par n="nativ__adj"/></e>
+    <e lm="diffuż"><i>diffuż</i><par n="nativ__adj"/></e>
+    <e lm="awtorizzat"><i>awtorizzat</i><par n="nativ__adj"/></e>
+    <e lm="affettwat"><i>affettwat</i><par n="nativ__adj"/></e>
+    <e lm="suspettat"><i>suspettat</i><par n="nativ__adj"/></e>
+    <e lm="kulurit"><i>kulurit</i><par n="nativ__adj"/></e>
+    <e lm="ipprattikat"><i>ipprattikat</i><par n="nativ__adj"/></e>
+    <e lm="intenzjonat"><i>intenzjonat</i><par n="nativ__adj"/></e>
+    <e lm="implikat"><i>implikat</i><par n="nativ__adj"/></e>
+    <e lm="ikkonċentrat"><i>ikkonċentrat</i><par n="nativ__adj"/></e>
+    <e lm="enfasizzat"><i>enfasizzat</i><par n="nativ__adj"/></e>
+    <e lm="elaborat"><i>elaborat</i><par n="nativ__adj"/></e>
+    <e lm="effetwat"><i>effetwat</i><par n="nativ__adj"/></e>
+    <e lm="bilanċjat"><i>bilanċjat</i><par n="nativ__adj"/></e>
+    <e lm="bbilanċjat" r="LR"><p><l>bbilanċjat</l><r>bilanċjat</r></p><par n="nativ__adj"/></e>
+    <e lm="attivat"><i>attivat</i><par n="nativ__adj"/></e>
+    <e lm="armonjuż"><i>armonjuż</i><par n="nativ__adj"/></e>
+    <e lm="armen"><i>armen</i><par n="nativ__adj"/></e>
+    <e lm="stilizzat"><i>stilizzat</i><par n="nativ__adj"/></e>
+    <e lm="standardizzat"><i>standardizzat</i><par n="nativ__adj"/></e>
+    <e lm="riprodott"><i>riprodott</i><par n="nativ__adj"/></e>
+    <e lm="presedut"><i>presedut</i><par n="nativ__adj"/></e>
+    <e lm="poġġut"><i>poġġut</i><par n="nativ__adj"/></e>
+    <e lm="kastiljan"><i>kastiljan</i><par n="nativ__adj"/></e>
+    <e lm="kapitalizzat"><i>kapitalizzat</i><par n="nativ__adj"/></e>
+    <e lm="inserit"><i>inserit</i><par n="nativ__adj"/></e>
+    <e lm="ikklassifikat"><i>ikklassifikat</i><par n="nativ__adj"/></e>
+    <e lm="iffortifikat"><i>iffortifikat</i><par n="nativ__adj"/></e>
+    <e lm="ġenerat"><i>ġenerat</i><par n="nativ__adj"/></e>
+    <e lm="distrutt"><i>distrutt</i><par n="nativ__adj"/></e>
+    <e lm="aċċessat"><i>aċċessat</i><par n="nativ__adj"/></e>
+    <e lm="kroniku"><i>kroni</i><par n="epi/ku__adj"/></e>
+    <e lm="enċiklopediku"><i>enċiklopedi</i><par n="epi/ku__adj"/></e>
+    <e lm="elettriku"><i>elettri</i><par n="epi/ku__adj"/></e>
+    <e lm="tipiku"><i>tipi</i><par n="epi/ku__adj"/></e>
+    <e lm="akkademiku"><i>akkademi</i><par n="epi/ku__adj"/></e>
+    <e lm="akademiku" r="LR"><p><l>akademi</l><r>akkademi</r></p><par n="epi/ku__adj"/></e>
+    <e lm="satiriku"><i>satiri</i><par n="epi/ku__adj"/></e>
+    <e lm="loġiku"><i>loġi</i><par n="epi/ku__adj"/></e>
+    <e lm="awtentiku"><i>awtenti</i><par n="epi/ku__adj"/></e>
+    <e lm="liturġiku"><i>liturġi</i><par n="epi/ku__adj"/></e>
+    <e lm="ċiniku"><i>ċini</i><par n="epi/ku__adj"/></e>
+    <e lm="mekkaniku"><i>mekkani</i><par n="epi/ku__adj"/></e>
+    <e lm="appostoliku"><i>appostoli</i><par n="epi/ku__adj"/></e>
+    <e lm="simboliku"><i>simboli</i><par n="epi/ku__adj"/></e>
+    <e lm="xettiku"><i>xetti</i><par n="epi/ku__adj"/></e>
+    <e lm="ideoloġiku"><i>ideoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="kliniku"><i>klini</i><par n="epi/ku__adj"/></e>
+    <e lm="atletiku"><i>atleti</i><par n="epi/ku__adj"/></e>
+    <e lm="grafiku"><i>grafi</i><par n="epi/ku__adj"/></e>
+    <e lm="arkitettoniku"><i>arkitettoni</i><par n="epi/ku__adj"/></e>
+    <e lm="komiku"><i>komi</i><par n="epi/ku__adj"/></e>
+    <e lm="ironiku"><i>ironi</i><par n="epi/ku__adj"/></e>
+    <e lm="tossiku"><i>tossi</i><par n="epi/ku__adj"/></e>
+    <e lm="organiku"><i>organi</i><par n="epi/ku__adj"/></e>
+    <e lm="mistiku"><i>misti</i><par n="epi/ku__adj"/></e>
+    <e lm="bijoloġiku"><i>bijoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="statiku"><i>stati</i><par n="epi/ku__adj"/></e>
+    <e lm="bibliku"><i>bibli</i><par n="epi/ku__adj"/></e>
+    <e lm="simpatiku"><i>simpati</i><par n="epi/ku__adj"/></e>
+    <e lm="profetiku"><i>profeti</i><par n="epi/ku__adj"/></e>
+    <e lm="fantastiku"><i>fantasti</i><par n="epi/ku__adj"/></e>
+    <e lm="ekoloġiku"><i>ekoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="puniku"><i>puni</i><par n="epi/ku__adj"/></e>
+    <e lm="atlantiku"><i>atlanti</i><par n="epi/ku__adj"/></e>
+    <e lm="arkeoloġiku"><i>arkeoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="umoristiku"><i>umoristi</i><par n="epi/ku__adj"/></e>
+    <e lm="teoloġiku"><i>teoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="paċifiku"><i>paċifi</i><par n="epi/ku__adj"/></e>
+    <e lm="manjetiku"><i>manjeti</i><par n="epi/ku__adj"/></e>
+    <e lm="metriku"><i>metri</i><par n="epi/ku__adj"/></e>
+    <e lm="erotiku"><i>eroti</i><par n="epi/ku__adj"/></e>
+    <e lm="awstrijaku"><i>awstrija</i><par n="epi/ku__adj"/></e>
+    <e lm="oċeaniku"><i>oċeani</i><par n="epi/ku__adj"/></e>
+    <e lm="appostoliku"><i>appostoli</i><par n="epi/ku__adj"/></e>
+    <e lm="teknoloġiku"><i>teknoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="intrinsiku"><i>intrinsi</i><par n="epi/ku__adj"/></e>
+    <e lm="ċibernetiku"><i>ċiberneti</i><par n="epi/ku__adj"/></e>
+    <e lm="metaforiku"><i>metafori</i><par n="epi/ku__adj"/></e>
+    <e lm="soċjoloġiku"><i>soċjoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="perjodiku"><i>perjodi</i><par n="epi/ku__adj"/></e>
+    <e lm="mitiku"><i>miti</i><par n="epi/ku__adj"/></e>
+    <e lm="ewkaristiku"><i>ewkaristi</i><par n="epi/ku__adj"/></e>
+    <e lm="awtobijografiku"><i>awtobijografi</i><par n="epi/ku__adj"/></e>
+    <e lm="islamiku"><i>islami</i><par n="epi/ku__adj"/></e>
+    <e lm="epiku"><i>epi</i><par n="epi/ku__adj"/></e>
+    <e lm="relativistiku"><i>relativisti</i><par n="epi/ku__adj"/></e>
+    <e lm="loġistiku"><i>loġisti</i><par n="epi/ku__adj"/></e>
+    <e lm="burokratiku"><i>burokrati</i><par n="epi/ku__adj"/></e>
+    <e lm="filantropiku"><i>filantropi</i><par n="epi/ku__adj"/></e>
+    <e lm="aritmetiku"><i>aritmeti</i><par n="epi/ku__adj"/></e>
+    <e lm="sintetiku"><i>sinteti</i><par n="epi/ku__adj"/></e>
+    <e lm="simplistiku"><i>simplisti</i><par n="epi/ku__adj"/></e>
+    <e lm="monastiku"><i>monasti</i><par n="epi/ku__adj"/></e>
+    <e lm="elettromanjetiku"><i>elettromanjeti</i><par n="epi/ku__adj"/></e>
+    <e lm="armoniku"><i>armoni</i><par n="epi/ku__adj"/></e>
+    <e lm="numeriku"><i>numeri</i><par n="epi/ku__adj"/></e>
+    <e lm="alkoħoliku"><i>alkoħoli</i><par n="epi/ku__adj"/></e>
+    <e lm="teoretiku"><i>teoreti</i><par n="epi/ku__adj"/></e>
+    <e lm="demografiku"><i>demografi</i><par n="epi/ku__adj"/></e>
+    <e lm="preistoriku"><i>preistori</i><par n="epi/ku__adj"/></e>
+    <e lm="plastiku"><i>plasti</i><par n="epi/ku__adj"/></e>
+    <e lm="enerġetiku"><i>enerġeti</i><par n="epi/ku__adj"/></e>
+    <e lm="fonetiku"><i>foneti</i><par n="epi/ku__adj"/></e>
+    <e lm="stilistiku"><i>stilisti</i><par n="epi/ku__adj"/></e>
+    <e lm="joniku"><i>joni</i><par n="epi/ku__adj"/></e>
+    <e lm="gotiku"><i>goti</i><par n="epi/ku__adj"/></e>
+    <e lm="eżotiku"><i>eżoti</i><par n="epi/ku__adj"/></e>
+    <e lm="didattiku"><i>didatti</i><par n="epi/ku__adj"/></e>
+    <e lm="artiku"><i>arti</i><par n="epi/ku__adj"/></e>
+    <e lm="materjalistiku"><i>materjalisti</i><par n="epi/ku__adj"/></e>
+    <e lm="dijalettiku"><i>dijaletti</i><par n="epi/ku__adj"/></e>
+    <e lm="ġuridiku"><i>ġuridi</i><par n="epi/ku__adj"/></e>
+    <e lm="enigmatiku"><i>enigmati</i><par n="epi/ku__adj"/></e>
+    <e lm="asjatiku"><i>asjati</i><par n="epi/ku__adj"/></e>
+    <e lm="vulkaniku"><i>vulkani</i><par n="epi/ku__adj"/></e>
+    <e lm="nordiku"><i>nordi</i><par n="epi/ku__adj"/></e>
+    <e lm="kronoloġiku"><i>kronoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="kirurġiku"><i>kirurġi</i><par n="epi/ku__adj"/></e>
+    <e lm="gotiku"><i>goti</i><par n="epi/ku__adj"/></e>
+    <e lm="ġeometriku"><i>ġeometri</i><par n="epi/ku__adj"/></e>
+    <e lm="ġometriku" r="LR"><p><l>ġometri</l><r>ġeometri</r></p><par n="epi/ku__adj"/></e>
+    <e lm="baltiku"><i>balti</i><par n="epi/ku__adj"/></e>
+    <e lm="mitoloġiku"><i>mitoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="kardijaku"><i>kardija</i><par n="epi/ku__adj"/></e>
+    <e lm="robotiku"><i>roboti</i><par n="epi/ku__adj"/></e>
+    <e lm="problematiku"><i>problemati</i><par n="epi/ku__adj"/></e>
+    <e lm="mikroskopiku"><i>mikroskopi</i><par n="epi/ku__adj"/></e>
+    <e lm="ellittiku"><i>ellitti</i><par n="epi/ku__adj"/></e>
+    <e lm="ritmiku"><i>ritmi</i><par n="epi/ku__adj"/></e>
+    <e lm="pornografiku"><i>pornografi</i><par n="epi/ku__adj"/></e>
+    <e lm="morfoloġiku"><i>morfoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="magiku"><i>magi</i><par n="epi/ku__adj"/></e>
+    <e lm="kaotiku"><i>kaoti</i><par n="epi/ku__adj"/></e>
+    <e lm="ħolistiku"><i>ħolisti</i><par n="epi/ku__adj"/></e>
+    <e lm="ċeltiku"><i>ċelti</i><par n="epi/ku__adj"/></e>
+    <e lm="balkaniku"><i>balkani</i><par n="epi/ku__adj"/></e>
+    <e lm="anatomiku"><i>anatomi</i><par n="epi/ku__adj"/></e>
+    <e lm="napoleoniku"><i>napoleoni</i><par n="epi/ku__adj"/></e>
+    <e lm="kożmiku"><i>kożmi</i><par n="epi/ku__adj"/></e>
+    <e lm="ġeoloġiku"><i>ġeoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="teoriku"><i>teori</i><par n="epi/ku__adj"/></e>
+    <e lm="programmatiku"><i>programmati</i><par n="epi/ku__adj"/></e>
+    <e lm="prammatiku"><i>prammati</i><par n="epi/ku__adj"/></e>
+    <e lm="pedagoġiku"><i>pedagoġi</i><par n="epi/ku__adj"/></e>
+    <e lm="paternalistiku"><i>paternalisti</i><par n="epi/ku__adj"/></e>
+    <e lm="farmaċewtiku"><i>farmaċewti</i><par n="epi/ku__adj"/></e>
+    <e lm="empiriku"><i>empiri</i><par n="epi/ku__adj"/></e>
+    <e lm="ċilindriku"><i>ċilindri</i><par n="epi/ku__adj"/></e>
+    <e lm="atmosferiku"><i>atmosferi</i><par n="epi/ku__adj"/></e>
+    <e lm="akwatiku"><i>akwati</i><par n="epi/ku__adj"/></e>
+    <e lm="akkwatiku" r="LR"><p><l>akkwati</l><r>akwati</r></p><par n="epi/ku__adj"/></e>
+    <e lm="platoniku"><i>platoni</i><par n="epi/ku__adj"/></e>
+    <e lm="ontoloġiku"><i>ontoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="nazzjonalistiku"><i>nazzjonalisti</i><par n="epi/ku__adj"/></e>
+    <e lm="ġermaniku"><i>ġermani</i><par n="epi/ku__adj"/></e>
+    <e lm="awtokratiku"><i>awtokrati</i><par n="epi/ku__adj"/></e>
+    <e lm="sinottiku"><i>sinotti</i><par n="epi/ku__adj"/></e>
+    <e lm="futuristiku"><i>futuristi</i><par n="epi/ku__adj"/></e>
+    <e lm="filarmoniku"><i>filarmoni</i><par n="epi/ku__adj"/></e>
+    <e lm="arkeoloġiku"><i>arkeoloġi</i><par n="epi/ku__adj"/></e>
+    <e lm="anarkiku"><i>anarki</i><par n="epi/ku__adj"/></e>
+    <e lm="allegoriku"><i>allegori</i><par n="epi/ku__adj"/></e>
+    <e lm="trigonometriku"><i>trigonometri</i><par n="epi/ku__adj"/></e>
+    <e lm="ipotetiku"><i>ipoteti</i><par n="epi/ku__adj"/></e>
+    <e lm="sferiku"><i>sferi</i><par n="epi/ku__adj"/></e>
+    <e lm="probabilistiku"><i>probabilisti</i><par n="epi/ku__adj"/></e>
+    <e lm="kariżmatiku"><i>kariżmati</i><par n="epi/ku__adj"/></e>
+    <e lm="deterministiku"><i>deterministi</i><par n="epi/ku__adj"/></e>
+    <e lm="bożnijaku"><i>bożnija</i><par n="epi/ku__adj"/></e>
+    <e lm="topiku"><i>topi</i><par n="epi/ku__adj"/></e>
+    <e lm="simbjotiku"><i>simbjoti</i><par n="epi/ku__adj"/></e>
+    <e lm="dijabetiku"><i>dijabeti</i><par n="epi/ku__adj"/></e>
+    <e lm="erojku" c="heroic"><i>eroj</i><par n="epi/ku__adj"/></e>
+    <e lm="anakronistiku"><i>anakronisti</i><par n="epi/ku__adj"/></e>

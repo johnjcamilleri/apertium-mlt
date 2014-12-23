@@ -1,0 +1,160 @@
+    <e lm="ilbieraħ" c="yesterday"><i></i><par n="/ilbieraħ__adv"/></e>
+    <e lm="dakinhar" c="that day"><i>dakinhar</i><par n="immedjatament__adv"/></e>
+    <e lm="bil-mogħod" c="slowly"><i>bil-mogħod</i><par n="immedjatament__adv"/></e>
+    <e lm="probabbli" r="LR"><p><l>probabbli</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e>
+    <e lm="kullimkien" c="everywhere"><i>kullimkien</i><par n="immedjatament__adv"/></e>
+    <e lm="bilfors"><i>bilfors</i><par n="immedjatament__adv"/></e>
+    <e lm="se"><i>se</i><par n="se__adv"/></e>
+    <e lm="qed"><i>qed</i><par n="se__adv"/></e>
+    <e lm="ħa"><i>ħa</i><par n="se__adv"/></e>
+    <e lm="għad"><i>għad</i><par n="se__adv"/></e>
+    <e lm="ser"><i>ser</i><par n="se__adv"/></e>
+    <e lm="ma"><i></i><par n="/ma__adv"/></e>
+    <e lm="fejn" c="where"><i>fejn</i><par n="kif__adv"/></e>
+    <e lm="għala" c="why"><i>għala</i><par n="kif__adv"/></e>
+    <e lm="għalfejn" c="for what reason"><i>għalfejn</i><par n="kif__adv"/></e>
+    <e lm="għaliex" c="why"><i>għaliex</i><par n="kif__adv"/></e>
+    <e lm="jaqaw" c="can it be"><i>jaqaw</i><par n="kif__adv"/></e>
+    <e lm="jewilla" c="by any chance"><i>jewilla</i><par n="kif__adv"/></e>
+    <e lm="kif" c="how"><i>kif</i><par n="kif__adv"/></e>
+    <e lm="xiex" c="what"><i>xiex</i><par n="kif__adv"/></e>
+    <e lm="minn sa fejn" c="by what right"><i>minn<b/>sa<b/>fejn</i><par n="kif__adv"/></e>
+    <e lm="mnejn" c="from where"><i>mnejn</i><par n="kif__adv"/></e>
+    <e lm="safejn" c="till where"><i>safejn</i><par n="kif__adv"/></e>
+    <e lm="hemm" c="there ('There are …')"><i>hemm</i><par n="hemm__adv"/></e>
+    <e lm="wisq" c="too much"><i>wisq</i><par n="immedjatament__adv"/></e>
+    <e lm="ukoll" c="also"><i>ukoll</i><par n="immedjatament__adv"/></e>
+    <e lm="wkoll" r="LR"><p><l>wkoll</l><r>ukoll</r></p><par n="immedjatament__adv"/></e>
+    <e lm="llum" c="today"><i>llum</i><par n="immedjatament__adv"/></e>
+    <e lm="lum" r="LR"><p><l>lum</l><r>llum</r></p><par n="immedjatament__adv"/></e>
+    <e lm="allura" c="then"><i>allura</i><par n="immedjatament__adv"/></e>
+    <e lm="hekk"><i>hekk</i><par n="immedjatament__adv"/></e>
+    <e lm="biss" c="just"><i>biss</i><par n="immedjatament__adv"/></e>
+    <e lm="flimkien" c="together"><i>flimkien</i><par n="immedjatament__adv"/></e>
+    <e lm="tant kemm" c="so much"><i>tant<b/>kemm</i><par n="immedjatament__adv"/></e>
+    <e lm="tant" c="so much"><i>tant</i><par n="immedjatament__adv"/></e>
+    <e lm="hawnhekk" c="here"><i>hawnhekk</i><par n="immedjatament__adv"/></e>
+    <e lm="hemmhekk" c="here"><i>hemmhekk</i><par n="immedjatament__adv"/></e>
+    <e lm="hawn" c="here"><i>hawn</i><par n="immedjatament__adv"/></e>
+    <e lm="qatt" c="never"><i>qatt</i><par n="immedjatament__adv"/></e>
+    <e lm="darba" c="once"><i>darba</i><par n="immedjatament__adv"/></e>
+    <e lm="dejjem" c="always"><i>dejjem</i><par n="immedjatament__adv"/></e>
+    <e lm="lura" c="back"><i>lura</i><par n="immedjatament__adv"/></e>
+    <e lm="anke" c="even"><i>anke</i><par n="immedjatament__adv"/></e>
+    <e lm="tajjeb" c="well"><i>tajjeb</i><par n="immedjatament__adv"/></e>
+    <e lm="qabel" c="before"><i>qabel</i><par n="immedjatament__adv"/></e>
+    <e lm="forsi" c="maybe"><i>forsi</i><par n="immedjatament__adv"/></e>
+    <e lm="diġà" c="already"><i>diġà</i><par n="immedjatament__adv"/></e>
+    <e lm="dalwaqt" c="soon"><i>dalwaqt</i><par n="immedjatament__adv"/></e>
+    <e lm="aktarx" c="probably"><i>aktarx</i><par n="immedjatament__adv"/></e>
+    <e lm="xorta" c="still, same"><i>xorta</i><par n="immedjatament__adv"/></e>
+    <e lm="iżjed" c="more"><i>iżjed</i><par n="immedjatament__adv"/></e>
+    <e lm="inqas" c="less"><i>inqas</i><par n="immedjatament__adv"/></e>
+    <e lm="tard" c="later"><i>tard</i><par n="immedjatament__adv"/></e>
+    <e lm="ġewwa" c="inside"><i>ġewwa</i><par n="immedjatament__adv"/></e>
+    <e lm="malajr" c="swiftly"><i>malajr</i><par n="immedjatament__adv"/></e>
+    <e lm="kultant" c="sometimes"><i>kultant</i><par n="immedjatament__adv"/></e>
+    <e lm="kważi" c="nearly"><i>kważi</i><par n="immedjatament__adv"/></e>
+    <e lm="anzi" c="indeed"><i>anzi</i><par n="immedjatament__adv"/></e>
+    <e lm="soltu" c="usual"><i>soltu</i><par n="immedjatament__adv"/></e>
+    <e lm="madankollu" c=""><i>madankollu</i><par n="immedjatament__adv"/></e>
+    <e lm="pulit" c="neatly"><i>pulit</i><par n="immedjatament__adv"/></e>
+    <e lm="bmod dirett" c="directly"><i>bmod<b/>dirett</i><par n="immedjatament__adv"/></e>
+    <e lm="il quddiem" c="onward"><i>il<b/>quddiem</i><par n="immedjatament__adv"/></e>
+    <e lm="b'xi mod jew iehor" c="somehow"><i>b'xi<b/>mod<b/>jew<b/>iehor</i><par n="immedjatament__adv"/></e>
+    <e lm="imbagħad" c="then"><i></i><par n="/imbagħad__adv"/></e>
+    <e lm="'l isfel" c="downwards"><i>'l<b/>isfel</i><par n="immedjatament__adv"/></e>
+    <e lm="il fuq" c="upwards"><i>il<b/>fuq</i><par n="immedjatament__adv"/></e>
+    <e lm="il barra" c="outside"><i>il<b/>barra</i><par n="immedjatament__adv"/></e>
+    <e lm="'l ġewwa" c="inside"><i>'l<b/>ġewwa</i><par n="immedjatament__adv"/></e>
+    <e lm="'l hemm" c="there"><i>'l<b/>hemm</i><par n="immedjatament__adv"/></e>
+    <e lm="'l hawn" c="here"><i>'l<b/>hawn</i><par n="immedjatament__adv"/></e>
+    <e lm="il-bieraħ" c="yesterday"><par n="il-/bieraħ__adv"/><i>bieraħ</i><par n="immedjatament__adv"/></e>
+    <e lm="il-bogħod" c="far"><par n="il-/bieraħ__adv"/><i>bogħod</i><par n="immedjatament__adv"/></e>
+    <e lm="isfel"><i>isfel</i><par n="immedjatament__adv"/></e>
+    <e lm="taħt"><i>taħt</i><par n="immedjatament__adv"/></e>
+    <e lm="fuq"><i>fuq</i><par n="immedjatament__adv"/></e>
+    <e lm="barra"><i>barra</i><par n="immedjatament__adv"/></e>
+    <e lm="illum"><i>illum</i><par n="immedjatament__adv"/></e>
+    <e lm="madwar"><i>madwar</i><par n="immedjatament__adv"/></e>
+    <e lm="issa" c="now"><i>issa</i><par n="immedjatament__adv"/></e>
+    <e lm="bħalissa" c="now"><i>bħalissa</i><par n="immedjatament__adv"/></e>
+    <e lm="għada" c="tomorrow"><i>għada</i><par n="immedjatament__adv"/></e>
+    <e lm="ilu"><i>ilu</i><par n="immedjatament__adv"/></e>
+    <e lm="lanqas" c="even"><i>lanqas</i><par n="immedjatament__adv"/></e>
+    <e lm="lanqas biss" c="not even"><i>lanqas<b/>biss</i><par n="immedjatament__adv"/></e>
+    <e lm="tassew"><i>tassew</i><par n="immedjatament__adv"/></e>
+    <e lm="sesswalment"><i>sesswalment</i><par n="immedjatament__adv"/></e>
+    <e lm="speċifikament"><i>speċifikament</i><par n="immedjatament__adv"/></e>
+    <e lm="iva"><i>iva</i><par n="immedjatament__adv"/></e>
+    <e lm="essenzjalment"><i>essenzjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="litteralment"><i>litteralment</i><par n="immedjatament__adv"/></e>
+    <e lm="bażikament"><i>bażikament</i><par n="immedjatament__adv"/></e>
+    <e lm="politikament"><i>politikament</i><par n="immedjatament__adv"/></e>
+    <e lm="pubblikament"><i>pubblikament</i><par n="immedjatament__adv"/></e>
+    <e lm="allegatament"><i>allegatament</i><par n="immedjatament__adv"/></e>
+    <e lm="kontinwament"><i>kontinwament</i><par n="immedjatament__adv"/></e>
+    <e lm="naturalment"><i>naturalment</i><par n="immedjatament__adv"/></e>
+    <e lm="ovvjament"><i>ovvjament</i><par n="immedjatament__adv"/></e>
+    <e lm="partikolarment"><i>partikolarment</i><par n="immedjatament__adv"/></e>
+    <e lm="personalment"><i>personalment</i><par n="immedjatament__adv"/></e>
+    <e lm="regolarment"><i>regolarment</i><par n="immedjatament__adv"/></e>
+    <e lm="sempliċiment"><i>sempliċiment</i><par n="immedjatament__adv"/></e>
+    <e lm="fortunatament"><i>fortunatament</i><par n="immedjatament__adv"/></e>
+    <e lm="sfortunatament"><i>sfortunatament</i><par n="immedjatament__adv"/></e>
+    <e lm="verament"><i>verament</i><par n="immedjatament__adv"/></e>
+    <e lm="astronomikament"><i>astronomikament</i><par n="immedjatament__adv"/></e>
+    <e lm="direttament"><i>direttament</i><par n="immedjatament__adv"/></e>
+    <e lm="assolutament"><i>assolutament</i><par n="immedjatament__adv"/></e>
+    <e lm="prattikament"><i>prattikament</i><par n="immedjatament__adv"/></e>
+    <e lm="eżattament"><i>eżattament</i><par n="immedjatament__adv"/></e>
+    <e lm="immedjatament"><i>immedjatament</i><par n="immedjatament__adv"/></e>
+    <e lm="oriġinarjament"><i>oriġinarjament</i><par n="immedjatament__adv"/></e>
+    <e lm="primarjament"><i>primarjament</i><par n="immedjatament__adv"/></e>
+    <e lm="rispettivament"><i>rispettivament</i><par n="immedjatament__adv"/></e>
+    <e lm="strettament"><i>strettament</i><par n="immedjatament__adv"/></e>
+    <e lm="tipikament"><i>tipikament</i><par n="immedjatament__adv"/></e>
+    <e lm="internazzjonalment"><i>internazzjonalment</i><par n="immedjatament__adv"/></e>
+    <e lm="tradizzjonalment"><i>tradizzjonalment</i><par n="immedjatament__adv"/></e>
+    <e lm="totalment"><i>totalment</i><par n="immedjatament__adv"/></e>
+    <e lm="attwalment"><i>attwalment</i><par n="immedjatament__adv"/></e>
+    <e lm="esklużivament"><i>esklużivament</i><par n="immedjatament__adv"/></e>
+    <e lm="eventwalment"><i>eventwalment</i><par n="immedjatament__adv"/></e>
+    <e lm="faċilment"><i>faċilment</i><par n="immedjatament__adv"/></e>
+    <e lm="ġeneralment"><i>ġeneralment</i><par n="immedjatament__adv"/></e>
+    <e lm="indipendentement"><i>indipendentement</i><par n="immedjatament__adv"/></e>
+    <e lm="kompletament"><i>kompletament</i><par n="immedjatament__adv"/></e>
+    <e lm="lokalment"><i>lokalment</i><par n="immedjatament__adv"/></e>
+    <e lm="normalment"><i>normalment</i><par n="immedjatament__adv"/></e>
+    <e lm="parzjalment"><i>parzjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="possibilment"><i>possibilment</i><par n="immedjatament__adv"/></e>
+    <e lm="prinċipalment"><i>prinċipalment</i><par n="immedjatament__adv"/></e>
+    <e lm="speċjalment"><i>speċjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="storikament"><i>storikament</i><par n="immedjatament__adv"/></e>
+    <e lm="suċċessivament"><i>suċċessivament</i><par n="immedjatament__adv"/></e>
+    <e lm="uffiċjalment"><i>uffiċjalment</i><par n="immedjatament__adv"/></e>
+    <e lm="l-istess"><p><l>l-istess</l><r>istess</r></p><par n="immedjatament__adv"/></e>
+    <e lm="xjentifikament"><i>xjentifikament</i><par n="immedjatament__adv"/></e>
+    <e lm="hekk u hekk"><i>hekk<b/>u<b/>hekk</i><par n="immedjatament__adv"/></e>
+    <e lm="probabbilment"><i>probabbilment</i><par n="immedjatament__adv"/></e>
+    <e lm="probabilment" r="LR"><p><l>probabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e>
+    <e lm="probbabilment" r="LR"><p><l>probbabilment</l><r>probabbilment</r></p><par n="immedjatament__adv"/></e>
+    <e lm="anki"><i>anki</i><par n="immedjatament__adv"/></e>
+    <e lm="esklussivament"><i>esklussivament</i><par n="immedjatament__adv"/></e>
+    <e lm="relattivament"><i>relattivament</i><par n="immedjatament__adv"/></e>
+    <e lm="fuq l-internet"><i>fuq<b/>l-internet</i><par n="immedjatament__adv"/></e>
+    <e lm="propjament"><i>propjament</i><par n="immedjatament__adv"/></e>
+    <e lm="proprju"><i>proprju</i><par n="immedjatament__adv"/></e>
+    <e lm="bilmod"><i>bilmod</i><par n="immedjatament__adv"/></e>
+    <e lm="biżżejjed" c="sufficiently"><i>biżżejjed</i><par n="immedjatament__adv"/></e>
+    <e lm="sewwasew" c="precisely"><i>sewwasew</i><par n="immedjatament__adv"/></e>
+    <e lm="sal-ġurnata tal-lum" c="until now"><i>sal-ġurnata<b/>tal-lum</i><par n="immedjatament__adv"/></e>
+    <e lm="ħafna" c="very much"><i>ħafna</i><par n="immedjatament__adv"/></e>
+    <e lm="ta' wara" c="after"><i>ta'<b/>wara</i><par n="immedjatament__adv"/></e>
+    <e lm="f'daqqa" c="suddenly"><i>f'daqqa</i><par n="immedjatament__adv"/></e>
+    <e lm="preċiżament" c="precisely"><i>preċiżament</i><par n="immedjatament__adv"/></e>
+    <e lm="ferm" c="very"><i>ferm</i><par n="immedjatament__adv"/></e>
+    <e lm="filgħodu" c="in the morning"><i>filgħodu</i><par n="immedjatament__adv"/></e>
+    <e lm="filgħaxija" c="in the evening"><i>filgħaxija</i><par n="immedjatament__adv"/></e>
+    <e lm="intant" c="meanwhile"><i>intant</i><par n="immedjatament__adv"/></e>
+    <e lm="l-quddiem" c="later on, in the future, further on"><i>l-quddiem</i><par n="immedjatament__adv"/></e>

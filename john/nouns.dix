@@ -1,5 +1,4 @@
     <e lm="oħt" c="sister"><i></i><par n="/oħt__n_f"/></e>
-    <e lm="tifla"><i>tifla</i><par n="molestja__n_f"/></e>
     <e lm="għajn" c="eye"><i>għajn</i><par n="id__n_f"/></e>
     <e lm="saħħa" c="health"><i>saħħ</i><par n="saħħ/a__n_f"/></e>
     <e lm="gramafown" c="gramaphone"><i>gram</i><par n="gram/afown__n"/></e>
@@ -137,7 +136,6 @@
     <e lm="avventura"><i>avventur</i><par n="propost/a__n_f"/></e>
     <e lm="champion"><i>champion</i><par n="gowl__n_m"/></e>
     <e lm="website"><i>website</i><par n="gowl__n_m"/></e>
-    <e lm="daqq"><i>daqq</i><par n="haddiem__n"/></e>  <!-- TODO fix! daqq vn + daqqa -->
     <e lm="mexxej" c="leader"><i>mexxej</i><par n="haddiem__n"/></e>
     <e lm="demokrazija"><i>demokrazij</i><par n="propost/a__n_f"/></e>
     <e lm="enċiklopedija"><i>enċiklopedij</i><par n="propost/a__n_f"/></e>
@@ -154,7 +152,6 @@
     <e lm="ċentru"><i>ċentr</i><par n="buff/u__n_m"/></e>
     <e lm="użu" c="use"><i>uż</i><par n="buff/u__n_m"/></e>
     <e lm="spazju" r="LR"><p><l>spazj</l><r>ispazj</r></p><par n="buff/u__n_m"/></e>
-<!--    <e lm="spazu" c=""><i>spaz</i><par n="buff/u__n_m"/></e>
     <e lm="ispazu" c="space"><i>ispaz</i><par n="buff/u__n_m"/></e> -->
     <e lm="teatru" c="theatre"><i>teatr</i><par n="buff/u__n_m"/></e>
     <e lm="santwarju" c="shrine"><i>santwarj</i><par n="buff/u__n_m"/></e>
@@ -384,27 +381,13 @@
     <e lm="arja"><i>ar</i><par n="ar/ja__n_f"/></e>
     <e lm="sena" c="year"><i>s</i><par n="s/ena__n_f"/></e>
     <e lm="minuta" c="minute"><i>minut</i><par n="propost/a__n_f"/></e>
-<!--    <e lm="sentejn" c="two years"><i>sentejn</i><par n="sentejn__n_f"/></e> -->
     <e lm="stqarrija" c="statement"><i>stqarrij</i><par n="sħubij/a__n_f"/></e>
     <e lm="knisja" c="church"><i>kn</i><par n="kn/isja__n_f"/></e>
     <e lm="nar" c="fire"><i>n</i><par n="n/ar__n_m"/></e>
-    <e lm="imħabba"><i>imħabba</i><par n="molestja__n_f"/></e> <!-- no pl? -->
-    <e lm="internet"><i>internet</i><par n="molestja__n_f"/></e> <!-- verify gender; 'internet użata' -->
     <e lm="molestja"><i>molestj</i><par n="propost/a__n_f"/></e>
     <e lm="fastidju" c="annoyance"><i>fastidj</i><par n="buff/u__n_m"/></e>
-    <e lm="tniġġis"><i>tniġġis</i><par n="tniġġis__n_m"/></e> <!-- verify gender -->
-    <e lm="futbol"><i>futbol</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
-    <e lm="traffiku"><i>traffik</i><par n="buff/u__n_m"/></e> <!-- no pl?-->
-    <e lm="rispett"><i>rispett</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
     <e lm="alla" c="God"><i>alla</i><par n="alla__n_m"/></e>
-    <e lm="temp" c="weather"><i>temp</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
-    <e lm="ġid" c="wealth"><i>ġid</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
-    <e lm="skiet" c="silence"><i>skiet</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
-    <e lm="petrol" c="gasoline"><i>petrol</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
-    <e lm="kuraġġ" c="valor"><i>kuraġġ</i><par n="tniġġis__n_m"/></e> <!-- no pl?-->
-    <e lm="mużika"><i>mużika</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="ilma" c="water"><i>ilm</i><par n="ilm/a__n_f"/></e>
-    <e lm="ġustizzja" c="justice"><i>ġustizzja</i><par n="molestja__n_f"/></e> <!-- no pl?-->
     <e lm="letteratura" c="literature"><i>letteratur</i><par n="propost/a__n_f"/></e>
     <e lm="ekonomija" c="economy"><i>ekonomij</i><par n="propost/a__n_f"/></e>
     <e lm="ħaġa" c="thing"><i>ħ</i><par n="ħ/aġa__n_f"/></e>
@@ -603,7 +586,6 @@
     <e lm="ħadid"><i>ħadid</i><par n="ċomb__n_m"/></e>
     <e lm="xmara" c="river"><i>xma</i><par n="xma/ra__n_f"/></e>
     <e lm="storja" c="story"><i>st</i><par n="st/orja__n_f"/></e>
-<!--    <e lm="ġebla"><i>ġebla</i><par n="oxx__n_f"/></e> -->
     <e lm="abitat"><i>abitat</i><par n="moviment__n_m"/></e>
     <e lm="żaqq"><i>ż</i><par n="ż/aqq__n_f"/></e>
     <e lm="enerġija"><i>enerġij</i><par n="propost/a__n_f"/></e>
@@ -627,7 +609,6 @@
     <e lm="bieb"><i>b</i><par n="b/ieb__n_m"/></e>
     <e lm="varjazzjoni"><i>varjazzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="matematika"><i>matematika</i><par n="enerġija__n_f"/></e>
-    <e lm="kimiku"><i>kimiku</i><par n="ċomb__n_m"/></e> <!-- what about pl ? -->
     <e lm="karbonju"><i>karbonju</i><par n="ċomb__n_m"/></e>
     <e lm="divorzju"><i>divorzj</i><par n="buff/u__n_m"/></e>
     <e lm="iben"><i/><par n="iben__n_m"/></e>
@@ -653,8 +634,6 @@
     <e lm="żebbuġ"><i>żebbuġ</i><par n="żebbuġ/a__n_m"/></e>
     <e lm="superstizzjoni"><i>superstizzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="ringiela"><i>ringiel</i><par n="propost/a__n_f"/></e>
-    <e lm="papra"><i>papr</i><par n="propost/a__n_f"/></e> <!-- but there is also Mr Duck: papru -->
-<!--    <e lm="oranġjo"><i>oranġjo</i><par n="Ċek__n_m"/></e> aggettivo e basta -->
     <e lm="lejla"><i>lejl</i><par n="sħubij/a__n_f"/></e>
     <e lm="kontribuzzjoni"><i>kontribuzzjoni</i><par n="unjoni__n_f"/></e>
     <e lm="konnotazzjoni"><i>konnotazzjoni</i><par n="unjoni__n_f"/></e>
@@ -702,7 +681,6 @@
     <e lm="għaqda"><i>għaqd</i><par n="sħubij/a__n_f"/></e>
     <e lm="gost"><i>gost</i><par n="moviment__n_m"/></e>
     <e lm="gwardjan"><i>gwardjan</i><par n="moviment__n_m"/></e>
-    <e lm="immigranta"><i>immigrant</i><par n="propost/a__n_f"/></e> <!-- TODO: check, adj form ?-->
     <e lm="immigrant"><i>immigrant</i><par n="moviment__n_m"/></e>
     <e lm="impatt"><i>impatt</i><par n="moviment__n_m"/></e>
     <e lm="imperatur"><i>imperatur</i><par n="moviment__n_m"/></e>
@@ -798,7 +776,6 @@
     <e lm="antenat"><i>antenat</i><par n="moviment__n_m"/></e>
     <e lm="appostlu"><i>appostl</i><par n="buff/u__n_m"/></e>
     <e lm="argument"><i>argument</i><par n="moviment__n_m"/></e>
-    <e lm="ringrazzjament"><i>ringrazzjament</i><par n="moviment__n_m"/></e> <!-- TODO: Check-->
     <e lm="artiklu"><i>artikl</i><par n="buff/u__n_m"/></e>
     <e lm="assistent"><i>assistent</i><par n="moviment__n_m"/></e>
     <e lm="attitudni"><i>attitudni</i><par n="unjoni__n_f"/></e>
@@ -878,7 +855,6 @@
     <e lm="istint"><i>istint</i><par n="moviment__n_m"/></e>
     <e lm="istrixxa"><i>istrixx</i><par n="propost/a__n_f"/></e>
     <e lm="istruttura"><i>istruttur</i><par n="propost/a__n_f"/></e>
-<!--    <e lm="ivell"><i>ivell</i><par n="moviment__n_m"/></e>  livell? -->
     <e lm="kampjonat"><i>kampjonat</i><par n="moviment__n_m"/></e>
     <e lm="kampnar"><i>kampnar</i><par n="moviment__n_m"/></e>
     <e lm="karta"><i>kart</i><par n="propost/a__n_f"/></e>
@@ -961,7 +937,6 @@
     <e lm="obbligu"><i>obblig</i><par n="buff/u__n_m"/></e>
     <e lm="opra"><i>opr</i><par n="propost/a__n_f"/></e>
     <e lm="orizzont"><i>orizzont</i><par n="moviment__n_m"/></e>
-<!--    <e lm="osofu"><i>osof</i><par n="buff/u__n_m"/></e> osofu? what's that?? -->
     <e lm="pangolin" ><i>pangolin</i><par n="moviment__n_m"/></e>
     <e lm="parir"><i>parir</i><par n="moviment__n_m"/></e>
     <e lm="partitarju"><i>partitarj</i><par n="buff/u__n_m"/></e>
@@ -988,10 +963,8 @@
     <e lm="professur"><i>professur</i><par n="moviment__n_m"/></e>
     <e lm="profitt"><i>profitt</i><par n="moviment__n_m"/></e>
     <e lm="proporzjoni"><i>proporzjoni</i><par n="unjoni__n_f"/></e>
-<!--    <e lm="proporzjon"><i>proporzjon</i><par n="dixx__n_m"/></e>-->
     <e lm="punt"><i>punt</i><par n="moviment__n_m"/></e>
     <e lm="rabta"><i>rabt</i><par n="sħubij/a__n_f"/></e>
-    <e lm="radju"><i>radj</i><par n="buff/u__n_m"/></e> <!-- shouldn't it be radju, radjijiet? radju, radji is 'radius' -->
     <e lm="rata"><i>rat</i><par n="propost/a__n_f"/></e>
     <e lm="referenza"><i>referenz</i><par n="propost/a__n_f"/></e>
     <e lm="riferenza" r="LR"><p><l>riferenz</l><r>referenz</r></p><par n="propost/a__n_f"/></e>
@@ -1022,7 +995,6 @@
     <e lm="tregwa"><i>tregw</i><par n="propost/a__n_f"/></e>
     <e lm="udjenza"><i>udjenz</i><par n="propost/a__n_f"/></e>
     <e lm="uffiċċju"><i>uffiċċj</i><par n="buff/u__n_m"/></e>
-<!--    <e lm="ukanda"><i>ukand</i><par n="propost/a__n_f"/></e> ??? -->
     <e lm="villaġġ"><i>villaġġ</i><par n="moviment__n_m"/></e>
     <e lm="kulleġġ"><i>kulleġġ</i><par n="moviment__n_m"/></e>
     <e lm="vittma"><i>vittm</i><par n="propost/a__n_f"/></e>
@@ -1031,7 +1003,6 @@
     <e lm="wirja"><i>wirj</i><par n="sħubij/a__n_f"/></e>
     <e lm="xejra"><i>xejr</i><par n="sħubij/a__n_f"/></e>
     <e lm="xewqa"><i>xewqa</i><par n="xemgħa__n_f"/></e>
-<!--    <e lm="zjarja"><i>zjarj</i><par n="propost/a__n_f"/></e>  ??? -->
     <e lm="distrett" c="district"><i>distrett</i><par n="moviment__n_m"/></e>
     <e lm="patt" c="pact"><i>patt</i><par n="moviment__n_m"/></e>
     <e lm="kontroll" c="control"><i>kontroll</i><par n="moviment__n_m"/></e>
@@ -1567,7 +1538,6 @@
     <e lm="sekonda" c="second"><i>sekond</i><par n="propost/a__n_f"/></e>
     <e lm="similarità" c="similarity"><i>similarit</i><par n="entit/à__n_f"/></e>
     <e lm="stazzjon" c="station"><i>stazzjon</i><par n="stazzjon__n_f"/></e>
-<!--    <e lm="parteċipant" c="participant"><i>parteċipant</i><par n="protestant__n_m"/></e> -->
     <e lm="esebitur" c="exhibitor"><i>esebitur</i><par n="Portugiż__n"/></e>
     <e lm="kompetitur" c="competitor"><i>kompetitur</i><par n="Portugiż__n"/></e>
     <e lm="telespettatur" c="spectator"><i>telespettatur</i><par n="Portugiż__n"/></e>
@@ -1590,13 +1560,6 @@
     <e lm="nom verbali" c="noun"><i>nom</i><par n="moviment__n_m"/><p><l><b/>verbali</l><r><g><b/>verbali</g></r></p></e>
     <e lm="istat kostrutt" c="construct state/smikhut/idafa"><i>istat<b/>kostrutt</i><par n="ċomb__n_m"/></e>
     <e lm="tuffieħa" c="apple"><i>tuffieħ</i><par n="sħubij/a__n_f"/></e>
-    <e lm="ħass" c="lettuce"><i>ħass</i><par n="ċomb__n_m"/></e> <!-- coll -->
-<!--    <e lm="ħassa" c="noun"><i>ħass</i><par n="sħubij/a__n_f"/></e>  unit -->
-    <e lm="tadam" c="tomato"><i>tadam</i><par n="ċomb__n_m"/></e> <!-- coll -->
-<!--    <e lm="tadama" c=""><i>tadam</i><par n="sħubij/a__n_f"/></e>  unit -->
-    <e lm="tursin" c="parsley"><i>tursin</i><par n="ċomb__n_m"/></e> <!-- coll -->
-<!--    <e lm="tursina" c=""><i>tursin</i><par n="sħubij/a__n_f"/></e>  unit -->
-<!--    <e lm="basla" c="onion" ><i>bas</i><par n="bal/la__n_f"/></e> -->
     <e lm="basla" c="onion" ><i>basl</i><par n="sħubij/a__n_f"/></e>
     <e lm="basal" c="onion-coll" ><i>basal</i><par n="ċomb__n_m"/></e>
     <e lm="naħla" c="bee"><i>naħl</i><par n="sħubij/a__n_f"/></e>
@@ -1604,7 +1567,6 @@
     <e lm="dubbiena" c="fly-unit"><i>dubbien</i><par n="sħubij/a__n_f"/></e>
     <e lm="tina" c="fig"><i>tin</i><par n="sħubij/a__n_f"/></e>
     <e lm="ħawħa" c="peach"><i>ħawħ</i><par n="sħubij/a__n_f"/></e>
-    <e lm="nemel" c="ant"><i>nemel</i><par n="ċomb__n_m"/></e> <!-- TODO: coll, but it may be pl -->
     <e lm="nisel" c="origin"><i></i><par n="/nisel__n_m"/></e>
     <e lm="ragħda" c="thunder"><i>ragħ</i><par n="ragħ/da__n_f"/></e>
     <e lm="metall" c="metal"><i>metall</i><par n="moviment__n_m"/></e>
@@ -1634,7 +1596,6 @@
     <e lm="insett" c="insect"><i>insett</i><par n="moviment__n_m"/></e>
     <e lm="suffiss" c="suffix"><i>suffiss</i><par n="moviment__n_m"/></e>
     <e lm="Għarab" c="Arab"><i>għar</i><par n="għar/bi__n_m"/></e>
-    <e lm="beraq" c="lightning"><i>beraq</i><par n="ċomb__n_m"/></e> <!-- coll -->
     <e lm="Feniċu" c="Phoenician"><i>Feniċ</i><par n="buff/u__n_m"/></e>
     <e lm="ħobża" c="loaf"><i>ħobż</i><par n="sħubij/a__n_f"/></e>
     <e lm="maskil" c="masculine gender"><i>maskil</i><par n="ċomb__n_m"/></e>
@@ -1644,19 +1605,16 @@
     <e lm="żieda" c="addition"><i>żied</i><par n="sħubij/a__n_f"/></e>
     <e lm="kollettiv" c="collectiv noun"><i>kollettiv</i><par n="ċomb__n_m"/></e>
     <e lm="il-Malti" c="Maltese language"><i>Malti</i><par n="ċomb__n_m"/></e>
-<!--    <e lm="il-Għarbi" c="Arabic language"><i>Għarbi</i><par n="ċomb__n_m"/></e> -->
     <e lm="il-Puniku" c="Punic language"><i>Puniku</i><par n="ċomb__n_m"/></e>
     <e lm="il-Semitiku" c="Semitic, hm, protolanguage"><i>Semitiku</i><par n="ċomb__n_m"/></e>
     <e lm="islam"><i>islam</i><par n="ċomb__n_m"/></e>
     <e lm="mislem"><i>mis</i><par n="mis/lem__n_m"/></e>
     <e lm="profeta"><i>profet</i><par n="profet/a__n_m"/></e>
-<!--    <e lm="profetessa"><i>profetess</i><par n="propost/a__n_f"/></e> -->
     <e lm="kitba" c="writing, written document"><i>kitb</i><par n="sħubij/a__n_f"/></e>
     <e lm="dizzjunarju" c="dictionary"><i>dizzjunarj</i><par n="buff/u__n_m"/></e>
     <e lm="qarrej" c="reader"><i>qarrej</i><par n="qarrej__n_m"/></e>
     <e lm="kalif" c="calif"><i>kalif</i><par n="moviment__n_m"/></e>
     <e lm="ħmura" c="redness"><i>ħmura</i><par n="enerġija__n_f"/></e>
-    <e lm="ġebel" c="stone"><i></i><par n="/ġebel__n_m"/></e> <!-- hm, not mountain -->
     <e lm="rota" c="wheel"><i>rot</i><par n="propost/a__n_f"/></e>
     <e lm="kaċċatur" c="hunter"><i>kaċċatur</i><par n="moviment__n_m"/></e>
     <e lm="indirizz" c="adress"><i>indirizz</i><par n="moviment__n_m"/></e>
@@ -1685,7 +1643,6 @@
     <e lm="daqqaq" c="musician"><i>daqqaq</i><par n="daqqaq__n"/></e>
     <e lm="għolja" c="hill"><i>għolj</i><par n="sħubij/a__n_f"/></e>
     <e lm="qarn" c="horn"><i>q</i><par n="q/arn__n_m"/></e>
-    <e lm="bebbux" c="snail/shell"><i>bebbux</i><par n="ċomb__n_m"/></e> <!-- coll -->
     <e lm="bebbuxa" c="snail"><i>bebbux</i><par n="sħubij/a__n_f"/></e>
     <e lm="korda" c="cord"><i>kord</i><par n="propost/a__n_f"/></e>
     <e lm="nifs" c="breath"><i>n</i><par n="n/ifs__n_m"/></e>
@@ -1704,7 +1661,6 @@
     <e lm="referendum" c="referendum"><i>referendum</i><par n="moviment__n_m"/></e>
     <e lm="naħa" c="side"><i>naħa</i><par n="naħa__n_f"/></e>
     <e lm="kap" c="head,chief"><i>kap</i><par n="dixx__n_m"/></e>
-    <e lm="żwieġ" c="marriage"><i>żwieġ</i><par n="dixx__n_m"/></e> <!-- 'żwieġ' is also pl of 'żewġ' -->
     <e lm="fażi" c="phase"><i>fażi</i><par n="unjoni__n_f"/></e>
     <e lm="tmiem" c="end"><i>tmiem</i><par n="ċomb__n_m"/></e>
     <e lm="ewro" c="euro"><i>ewro</i><par n="rettili__n_m"/></e>
@@ -1730,11 +1686,21 @@
     <e lm="kilometru" c="kilometer"><i>kilometr</i><par n="buff/u__n_m"/></e>
     <e lm="skwadra" c="team" ><i>skwadr</i><par n="propost/a__n_f"/></e>
     <e lm="skor" c="score" ><i>skor</i><par n="gowl__n_m"/></e>
-    <e lm="finanza" c="finance" ><i>finanz</i><par n="propost/a__n_f"/></e> <!-- sg not used? -->
-    <e lm="għana" c="song" ><i>għana</i><par n="ċomb__n_m"/></e> <!-- m, really? -->
     <e lm="strument tan-nifs" c="wind instrument"><i>strument</i><par n="moviment__n_m"/><p><l><b/>tan-nifs</l><r><g><b/>tan-nifs</g></r></p></e>
     <e lm="strument tal-perkusjoni"><i>strument</i><par n="moviment__n_m"/><p><l><b/>tal-perkussjoni</l><r><g><b/>tal-perkussjoni</g></r></p></e>
     <e lm="perkussjoni" c="percussion"><i>perkussjoni</i><par n="unjoni__n_f"/></e>
     <e lm="rifless" c="reflection,reflex" ><i>rifless</i><par n="moviment__n_m"/></e>
     <e lm="impjieg" c="job,position" ><i>impjieg</i><par n="moviment__n_m"/></e>
     <e lm="kwadru" c="square" ><i>kwadr</i><par n="buff/u__n_m"/></e>
+    <e lm="biża" c="fear"><i>biż</i><par n="biż/a__n_m"/></e>
+    <e lm="żejt" c="oil"><i>ż</i><par n="ż/ejt__n_m"/></e>
+    <e lm="inkwiet" c="worry"><i>inkwiet</i><par n="ċomb__n_m"/></e>
+    <e lm="riħ" c="wind"><i></i><par n="/riħ__n_m"/></e>
+    <e lm="wied" c="valley"><i>wi</i><par n="wi/ed__n_m"/></e>
+    <e lm="ramel" c="sand"><i></i><par n="/ramel__n_m"/></e>
+    <e lm="tnaqqis" c="decrease"><i>tnaqq</i><par n="tnaqq/is__n_m"/></e>
+    <e lm="kera" c="tenancy"><i>k</i><par n="k/era__n_f"/></e>
+    <e lm="serq" c="theft"><i>serq</i><par n="serq__n_m"/></e>
+    <e lm="qiegħ" c="bottom"><i>qi</i><par n="qi/egħ__n_m"/></e>
+    <e lm="laħam" c="meat"><i>laħ</i><par n="laħ/am__n_m"/></e>
+    <e lm="xirja" c="shopping"><i>xir</i><par n="xir/ja__n_f"/></e>

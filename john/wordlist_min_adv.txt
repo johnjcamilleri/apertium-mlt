@@ -1,0 +1,160 @@
+~ilbieraħ:<:ilbieraħ<adv>
+dakinhar:dakinhar<adv>
+bil-mogħod:bil-mogħod<adv>
+kullimkien:kullimkien<adv>
+bilfors:bilfors<adv>
+se:se<adv>
+qed:qed<adv>
+ħa:ħa<adv>
+għad:għad<adv>
+ser:ser<adv>
+~ma:<:ma<adv>
+fejn:fejn<adv><itg>
+għala:għala<adv><itg>
+għalfejn:għalfejn<adv><itg>
+għaliex:għaliex<adv><itg>
+jaqaw:jaqaw<adv><itg>
+jewilla:jewilla<adv><itg>
+kif:kif<adv><itg>
+xiex:xiex<adv><itg>
+minn sa fejn:minn sa fejn<adv><itg>
+mnejn:mnejn<adv><itg>
+safejn:safejn<adv><itg>
+hemm:hemm<adv>
+hemmx:hemm<adv>+x<neg>
+wisq:wisq<adv>
+ukoll:ukoll<adv>
+llum:llum<adv>
+allura:allura<adv>
+hekk:hekk<adv>
+b'hekk:hekk<adv>
+biss:biss<adv>
+flimkien:flimkien<adv>
+tant kemm:tant kemm<adv>
+tant:tant<adv>
+hawnhekk:hawnhekk<adv>
+hemmhekk:hemmhekk<adv>
+hawn:hawn<adv>
+qatt:qatt<adv>
+darba:darba<adv>
+dejjem:dejjem<adv>
+lura:lura<adv>
+anke:anke<adv>
+tajjeb:tajjeb<adv>
+qabel:qabel<adv>
+forsi:forsi<adv>
+diġà:diġà<adv>
+dalwaqt:dalwaqt<adv>
+aktarx:aktarx<adv>
+xorta:xorta<adv>
+sew:sew<adv>
+iżjed:iżjed<adv>
+inqas:inqas<adv>
+tard:tard<adv>
+ġewwa:ġewwa<adv>
+malajr:malajr<adv>
+kultant:kultant<adv>
+kważi:kważi<adv>
+anzi:anzi<adv>
+soltu:soltu<adv>
+madankollu:madankollu<adv>
+pulit:pulit<adv>
+bmod dirett:bmod dirett<adv>
+il quddiem:il quddiem<adv>
+b'xi mod jew iehor:b'xi mod jew iehor<adv>
+~imbagħad:<:imbagħad<adv>
+'l isfel:'l isfel<adv>
+il fuq:il fuq<adv>
+il barra:il barra<adv>
+'l ġewwa:'l ġewwa<adv>
+'l hemm:'l hemm<adv>
+'l hawn:'l hawn<adv>
+~il-bieraħ:<:il-bieraħ<adv>
+~il-bogħod:<:il-bogħod<adv>
+isfel:isfel<adv>
+taħt:taħt<adv>
+fuq:fuq<adv>
+barra:barra<adv>
+illum:illum<adv>
+madwar:madwar<adv>
+issa:issa<adv>
+bħalissa:bħalissa<adv>
+għada:għada<adv>
+ilu:ilu<adv>
+lanqas:lanqas<adv>
+lanqas biss:lanqas biss<adv>
+tassew:tassew<adv>
+sesswalment:sesswalment<adv>
+speċifikament:speċifikament<adv>
+iva:iva<adv>
+essenzjalment:essenzjalment<adv>
+litteralment:litteralment<adv>
+bażikament:bażikament<adv>
+politikament:politikament<adv>
+pubblikament:pubblikament<adv>
+allegatament:allegatament<adv>
+kontinwament:kontinwament<adv>
+naturalment:naturalment<adv>
+ovvjament:ovvjament<adv>
+partikolarment:partikolarment<adv>
+personalment:personalment<adv>
+regolarment:regolarment<adv>
+sempliċiment:sempliċiment<adv>
+fortunatament:fortunatament<adv>
+sfortunatament:sfortunatament<adv>
+verament:verament<adv>
+astronomikament:astronomikament<adv>
+direttament:direttament<adv>
+assolutament:assolutament<adv>
+prattikament:prattikament<adv>
+eżattament:eżattament<adv>
+immedjatament:immedjatament<adv>
+oriġinarjament:oriġinarjament<adv>
+primarjament:primarjament<adv>
+rispettivament:rispettivament<adv>
+strettament:strettament<adv>
+tipikament:tipikament<adv>
+internazzjonalment:internazzjonalment<adv>
+tradizzjonalment:tradizzjonalment<adv>
+totalment:totalment<adv>
+attwalment:attwalment<adv>
+esklużivament:esklużivament<adv>
+eventwalment:eventwalment<adv>
+faċilment:faċilment<adv>
+ġeneralment:ġeneralment<adv>
+indipendentement:indipendentement<adv>
+kompletament:kompletament<adv>
+lokalment:lokalment<adv>
+normalment:normalment<adv>
+parzjalment:parzjalment<adv>
+possibilment:possibilment<adv>
+prinċipalment:prinċipalment<adv>
+speċjalment:speċjalment<adv>
+storikament:storikament<adv>
+suċċessivament:suċċessivament<adv>
+uffiċjalment:uffiċjalment<adv>
+l-istess:istess<adv>
+xjentifikament:xjentifikament<adv>
+hekk u hekk:hekk u hekk<adv>
+probabbilment:probabbilment<adv>
+anki:anki<adv>
+esklussivament:esklussivament<adv>
+relattivament:relattivament<adv>
+fuq l-internet:fuq l-internet<adv>
+propjament:propjament<adv>
+proprju:proprju<adv>
+bilmod:bilmod<adv>
+biżżejjed:biżżejjed<adv>
+sewwasew:sewwasew<adv>
+sal-ġurnata tal-lum:sal-ġurnata tal-lum<adv>
+ħafna:ħafna<adv>
+ta' wara:ta' wara<adv>
+f'daqqa:f'daqqa<adv>
+preċiżament:preċiżament<adv>
+ferm:ferm<adv>
+filgħodu:filgħodu<adv>
+filgħaxija:filgħaxija<adv>
+intant:intant<adv>
+l-quddiem:l-quddiem<adv>
+il-quddiem:l-quddiem<adv>
+aktar il-quddiem:l-quddiem<adv>
